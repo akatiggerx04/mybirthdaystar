@@ -227,7 +227,7 @@ Click here to learn about magnitudes.">{selected_star.magnitude}<svg xmlns="http
 {/if}
 
 <!-- DATE PICKER -->
-<div class="fixed bottom-[40vh] md:lg:bottom-0 flex flex-col justify-center items-center w-full pl-0 md:lg:pl-[450px] mb-4 md:lg:mb-10">
+<div class="fixed bottom-[40vh] md:lg:bottom-0 flex flex-col justify-center items-center w-full pl-0 md:lg:pl-[450px] mb-4 md:mb-6 lg:mb-10">
     {#if pickdate}
     <DatePicker bind:value={date} timePrecision={null} max={new Date()} min={new Date("1915")}/>
     <button on:click={findBirthDayStar} class="bg-[#161617] rounded-xl px-6 py-2 mb-2 mt-4 text-white md:lg:text-[#737374] hover:text-white duration-200">Confirm Birthday</button>
