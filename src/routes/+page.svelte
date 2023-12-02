@@ -195,7 +195,7 @@ Click here to learn about magnitudes.">{selected_star.magnitude}<svg xmlns="http
 
 <!-- CONSTELLATIONS INFO -->
 {#if info_constellations}
-<Information title="CONSTALLETIONS" subtitle="WHAT ARE THEY?" bind:open={info_constellations}>
+<Information title="CONSTELLATIONS" subtitle="WHAT ARE THEY?" bind:open={info_constellations}>
     <img src="/assets/img/constellations.jpg" alt="Constellations" class="w-full h-72 object-cover rounded my-4">
     <p class="max-w-xl">A constellation (Greek: συνάστερος, synastēros, "grouped together") is a group of stars that appear to form a pattern or outline when viewed from Earth. They were originally used by ancient astronomers to help them navigate the night sky. Constellations are not physically related to each other, as they are simply groups of stars that are close to each other in the sky from our perspective.</p>
     <div class="my-2">
