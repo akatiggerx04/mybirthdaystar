@@ -7,8 +7,6 @@ The concept of the "Birthday Star" is simple yet captivating. It's entirely base
 
 Imagine a star located at a specific distance from Earth, where the light you witness today was emitted on the day you were born. In essence, the light particles (photons) you observe are as old as you are, having travelled through space for all that time.
 
---- 
-
 ## How do i find my birthday star?
 
 Visit [https://mybirthdaystar.pages.dev/](https://mybirthdaystar.pages.dev/), and pick your birthday. 
