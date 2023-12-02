@@ -11,7 +11,7 @@ Imagine a star located at a specific distance from Earth, where the light you wi
 
 ## How do i find my birthday star?
 
-Visit [https://akatiggerx04.github.io/mybirthdaystar](https://akatiggerx04.github.io/mybirthdaystar), and pick your birthday. 
+Visit [https://mybirthdaystar.pages.dev/](https://mybirthdaystar.pages.dev/), and pick your birthday. 
 
 ![Screenshot](https://raw.githubusercontent.com/akatiggerx04/mybirthdaystar/web-resources/screenshot.png)
 
