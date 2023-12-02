@@ -1,0 +1,7898 @@
+[
+  {
+    "name": "Sol",
+    "distance": 0.0,
+    "magnitude": -26.7,
+    "constellation": "",
+    "type": "G2V",
+    "spectral_group": "G",
+    "spectral_class": "0.656",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.0,
+      "declination": 0.0
+    },
+    "catalogs": {
+      "hip": "",
+      "hd": ""
+    }
+  },
+  {
+    "name": "Alpheratz",
+    "distance": 97.0255804,
+    "magnitude": 2.07,
+    "constellation": "Andromeda",
+    "type": "B9p",
+    "spectral_group": "B",
+    "spectral_class": "-0.038",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.139791,
+      "declination": 29.090432
+    },
+    "catalogs": {
+      "hip": "677",
+      "hd": "358"
+    }
+  },
+  {
+    "name": "Caph",
+    "distance": 54.750060399999995,
+    "magnitude": 2.28,
+    "constellation": "Cassiopeia",
+    "type": "F2III-IV",
+    "spectral_group": "F",
+    "spectral_class": "0.38",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.152887,
+      "declination": 59.14978
+    },
+    "catalogs": {
+      "hip": "746",
+      "hd": "432"
+    }
+  },
+  {
+    "name": "Algenib",
+    "distance": 391.596576,
+    "magnitude": 2.83,
+    "constellation": "Pegasus",
+    "type": "B2IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.19",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.220598,
+      "declination": 15.183596
+    },
+    "catalogs": {
+      "hip": "1067",
+      "hd": "886"
+    }
+  },
+  {
+    "name": "Ankaa",
+    "distance": 84.727188,
+    "magnitude": 2.4,
+    "constellation": "Phoenix",
+    "type": "K0III...",
+    "spectral_group": "K",
+    "spectral_class": "1.083",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.438056,
+      "declination": -42.305981
+    },
+    "catalogs": {
+      "hip": "2081",
+      "hd": "2261"
+    }
+  },
+  {
+    "name": "Schedar",
+    "distance": 228.271498,
+    "magnitude": 2.24,
+    "constellation": "Cassiopeia",
+    "type": "K0II-IIIvar",
+    "spectral_group": "K",
+    "spectral_class": "1.17",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.675116,
+      "declination": 56.537331
+    },
+    "catalogs": {
+      "hip": "3179",
+      "hd": "3712"
+    }
+  },
+  {
+    "name": "Diphda",
+    "distance": 96.3379508,
+    "magnitude": 2.04,
+    "constellation": "Cetus",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.019",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.72649,
+      "declination": -17.986605
+    },
+    "catalogs": {
+      "hip": "3419",
+      "hd": "4128"
+    }
+  },
+  {
+    "name": "96 G. Psc",
+    "distance": 24.3178838,
+    "magnitude": 5.74,
+    "constellation": "Pisces",
+    "type": "K2V",
+    "spectral_group": "K",
+    "spectral_class": "0.89",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.806382,
+      "declination": 5.280615
+    },
+    "catalogs": {
+      "hip": "3765",
+      "hd": "4628"
+    }
+  },
+  {
+    "name": "Achird",
+    "distance": 19.4190122,
+    "magnitude": 3.46,
+    "constellation": "Cassiopeia",
+    "type": "G0V SB",
+    "spectral_group": "G",
+    "spectral_class": "0.587",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.81826,
+      "declination": 57.815187
+    },
+    "catalogs": {
+      "hip": "3821",
+      "hd": "4614"
+    }
+  },
+  {
+    "name": "Castula",
+    "distance": 199.877419,
+    "magnitude": 4.62,
+    "constellation": "Cassiopeia",
+    "type": "G8III-IV",
+    "spectral_group": "G",
+    "spectral_class": "0.957",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 0.944432,
+      "declination": 59.181056
+    },
+    "catalogs": {
+      "hip": "4422",
+      "hd": "5395"
+    }
+  },
+  {
+    "name": "Wurren",
+    "distance": 298.7179762,
+    "magnitude": 3.94,
+    "constellation": "Phoenix",
+    "type": "B6V + B0V",
+    "spectral_group": "B",
+    "spectral_class": "-0.12",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.139742,
+      "declination": -55.24576
+    },
+    "catalogs": {
+      "hip": "5348",
+      "hd": "6882"
+    }
+  },
+  {
+    "name": "Mirach",
+    "distance": 197.4576674,
+    "magnitude": 2.07,
+    "constellation": "Andromeda",
+    "type": "M0IIIvar",
+    "spectral_group": "M",
+    "spectral_class": "1.576",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.162194,
+      "declination": 35.620558
+    },
+    "catalogs": {
+      "hip": "5447",
+      "hd": "6860"
+    }
+  },
+  {
+    "name": "Revati",
+    "distance": 173.8805838,
+    "magnitude": 5.21,
+    "constellation": "Pisces",
+    "type": "A7IV",
+    "spectral_group": "A",
+    "spectral_class": "0.32",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.228857,
+      "declination": 7.575354
+    },
+    "catalogs": {
+      "hip": "5737",
+      "hd": "7344"
+    }
+  },
+  {
+    "name": "Adhil",
+    "distance": 214.4641044,
+    "magnitude": 4.87,
+    "constellation": "Andromeda",
+    "type": "K0III-IV",
+    "spectral_group": "K",
+    "spectral_class": "1.077",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.372337,
+      "declination": 45.528778
+    },
+    "catalogs": {
+      "hip": "6411",
+      "hd": "8207"
+    }
+  },
+  {
+    "name": "Ruchbah",
+    "distance": 99.420867,
+    "magnitude": 2.66,
+    "constellation": "Cassiopeia",
+    "type": "A5Vv SB",
+    "spectral_group": "A",
+    "spectral_class": "0.16",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.430216,
+      "declination": 60.235283
+    },
+    "catalogs": {
+      "hip": "6686",
+      "hd": "8538"
+    }
+  },
+  {
+    "name": "Alpherg",
+    "distance": 349.6247482,
+    "magnitude": 3.62,
+    "constellation": "Pisces",
+    "type": "G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.974",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.524725,
+      "declination": 15.345823
+    },
+    "catalogs": {
+      "hip": "7097",
+      "hd": "9270"
+    }
+  },
+  {
+    "name": "Titawin",
+    "distance": 44.009599200000004,
+    "magnitude": 4.1,
+    "constellation": "Andromeda",
+    "type": "F8V",
+    "spectral_group": "F",
+    "spectral_class": "0.536",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.613299,
+      "declination": 41.405459
+    },
+    "catalogs": {
+      "hip": "7513",
+      "hd": "9826"
+    }
+  },
+  {
+    "name": "Achernar",
+    "distance": 139.46126460000002,
+    "magnitude": 0.45,
+    "constellation": "Eridanus",
+    "type": "B3Vp",
+    "spectral_group": "B",
+    "spectral_class": "-0.158",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.628556,
+      "declination": -57.236757
+    },
+    "catalogs": {
+      "hip": "7588",
+      "hd": "10144"
+    }
+  },
+  {
+    "name": "Nembus",
+    "distance": 177.1862946,
+    "magnitude": 3.59,
+    "constellation": "Andromeda",
+    "type": "K3III",
+    "spectral_group": "K",
+    "spectral_class": "1.275",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.633205,
+      "declination": 48.628213
+    },
+    "catalogs": {
+      "hip": "7607",
+      "hd": "9927"
+    }
+  },
+  {
+    "name": "p Eridani",
+    "distance": 25.5163426,
+    "magnitude": 5.76,
+    "constellation": "Eridanus",
+    "type": "K0V",
+    "spectral_group": "K",
+    "spectral_class": "0.88",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.663169,
+      "declination": -56.1964
+    },
+    "catalogs": {
+      "hip": "7751",
+      "hd": "10360"
+    }
+  },
+  {
+    "name": "Torcular",
+    "distance": 279.5201276,
+    "magnitude": 4.26,
+    "constellation": "Pisces",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "0.942",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.756564,
+      "declination": 9.157736
+    },
+    "catalogs": {
+      "hip": "8198",
+      "hd": "10761"
+    }
+  },
+  {
+    "name": "Baten Kaitos",
+    "distance": 235.01437819999998,
+    "magnitude": 3.74,
+    "constellation": "Cetus",
+    "type": "K2III",
+    "spectral_group": "K",
+    "spectral_class": "1.136",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.857676,
+      "declination": -10.335038
+    },
+    "catalogs": {
+      "hip": "8645",
+      "hd": "11353"
+    }
+  },
+  {
+    "name": "Mothallah",
+    "distance": 63.339885,
+    "magnitude": 3.42,
+    "constellation": "Triangulum",
+    "type": "F6IV",
+    "spectral_group": "F",
+    "spectral_class": "0.488",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.884696,
+      "declination": 29.578829
+    },
+    "catalogs": {
+      "hip": "8796",
+      "hd": "11443"
+    }
+  },
+  {
+    "name": "Mesarthim",
+    "distance": 164.0844716,
+    "magnitude": 3.88,
+    "constellation": "Aries",
+    "type": "A1p Si",
+    "spectral_group": "A",
+    "spectral_class": "-0.047",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.89217,
+      "declination": 19.293852
+    },
+    "catalogs": {
+      "hip": "8832",
+      "hd": "11502"
+    }
+  },
+  {
+    "name": "Segin",
+    "distance": 411.8686012,
+    "magnitude": 3.35,
+    "constellation": "Cassiopeia",
+    "type": "B2pvar",
+    "spectral_group": "B",
+    "spectral_class": "-0.15",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.906584,
+      "declination": 63.670101
+    },
+    "catalogs": {
+      "hip": "8886",
+      "hd": "11415"
+    }
+  },
+  {
+    "name": "Sheratan",
+    "distance": 58.6690272,
+    "magnitude": 2.64,
+    "constellation": "Aries",
+    "type": "A5V...",
+    "spectral_group": "A",
+    "spectral_class": "0.165",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.910668,
+      "declination": 20.808035
+    },
+    "catalogs": {
+      "hip": "8903",
+      "hd": "11636"
+    }
+  },
+  {
+    "name": "Almach",
+    "distance": 393.0119578,
+    "magnitude": 2.1,
+    "constellation": "Andromeda",
+    "type": "B8V",
+    "spectral_group": "B",
+    "spectral_class": "1.37",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.064984,
+      "declination": 42.329725
+    },
+    "catalogs": {
+      "hip": "9640",
+      "hd": "12533"
+    }
+  },
+  {
+    "name": "Hamal",
+    "distance": 65.81933120000001,
+    "magnitude": 2.01,
+    "constellation": "Aries",
+    "type": "K2III",
+    "spectral_group": "K",
+    "spectral_class": "1.151",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.119555,
+      "declination": 23.462423
+    },
+    "catalogs": {
+      "hip": "9884",
+      "hd": "12929"
+    }
+  },
+  {
+    "name": "Polaris",
+    "distance": 432.626012,
+    "magnitude": 1.97,
+    "constellation": "Ursa Minor",
+    "type": "F7:Ib-IIv SB",
+    "spectral_group": "F",
+    "spectral_class": "0.636",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.52975,
+      "declination": 89.264109
+    },
+    "catalogs": {
+      "hip": "11767",
+      "hd": "8890"
+    }
+  },
+  {
+    "name": "268 G. Cet",
+    "distance": 23.4221386,
+    "magnitude": 5.79,
+    "constellation": "Cetus",
+    "type": "K3V",
+    "spectral_group": "K",
+    "spectral_class": "0.918",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.601357,
+      "declination": 6.88687
+    },
+    "catalogs": {
+      "hip": "12114",
+      "hd": "16160"
+    }
+  },
+  {
+    "name": "Kaffaljidhma",
+    "distance": 79.61922220000001,
+    "magnitude": 3.47,
+    "constellation": "Cetus",
+    "type": "A3V",
+    "spectral_group": "A",
+    "spectral_class": "0.093",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.721678,
+      "declination": 3.235818
+    },
+    "catalogs": {
+      "hip": "12706",
+      "hd": "16970"
+    }
+  },
+  {
+    "name": "Lilii Borea",
+    "distance": 171.5939218,
+    "magnitude": 4.52,
+    "constellation": "Aries",
+    "type": "K1III",
+    "spectral_group": "K",
+    "spectral_class": "1.112",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.79848,
+      "declination": 29.247118
+    },
+    "catalogs": {
+      "hip": "13061",
+      "hd": "17361"
+    }
+  },
+  {
+    "name": "Bharani",
+    "distance": 165.6678464,
+    "magnitude": 3.61,
+    "constellation": "Aries",
+    "type": "B8Vn",
+    "spectral_group": "B",
+    "spectral_class": "-0.1",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.833063,
+      "declination": 27.260507
+    },
+    "catalogs": {
+      "hip": "13209",
+      "hd": "17573"
+    }
+  },
+  {
+    "name": "Angetenar",
+    "distance": 186.9341292,
+    "magnitude": 4.76,
+    "constellation": "Eridanus",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "0.906",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.850645,
+      "declination": -21.004019
+    },
+    "catalogs": {
+      "hip": "13288",
+      "hd": "17824"
+    }
+  },
+  {
+    "name": "Azha",
+    "distance": 136.542427,
+    "magnitude": 3.89,
+    "constellation": "Eridanus",
+    "type": "K1III-IV",
+    "spectral_group": "K",
+    "spectral_class": "1.088",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.940458,
+      "declination": -8.898144
+    },
+    "catalogs": {
+      "hip": "13701",
+      "hd": "18322"
+    }
+  },
+  {
+    "name": "Acamar",
+    "distance": 161.245553,
+    "magnitude": 2.88,
+    "constellation": "Eridanus",
+    "type": "A4III+...",
+    "spectral_group": "A",
+    "spectral_class": "0.128",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 2.971023,
+      "declination": -40.304672
+    },
+    "catalogs": {
+      "hip": "13847",
+      "hd": "18622"
+    }
+  },
+  {
+    "name": "Menkar",
+    "distance": 249.1978804,
+    "magnitude": 2.54,
+    "constellation": "Cetus",
+    "type": "M2III",
+    "spectral_group": "M",
+    "spectral_class": "1.63",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.037992,
+      "declination": 4.089734
+    },
+    "catalogs": {
+      "hip": "14135",
+      "hd": "18884"
+    }
+  },
+  {
+    "name": "Algol",
+    "distance": 89.93660200000001,
+    "magnitude": 2.09,
+    "constellation": "Perseus",
+    "type": "B8V",
+    "spectral_group": "B",
+    "spectral_class": "-0.003",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.136148,
+      "declination": 40.955648
+    },
+    "catalogs": {
+      "hip": "14576",
+      "hd": "19356"
+    }
+  },
+  {
+    "name": "Misam",
+    "distance": 112.75494440000001,
+    "magnitude": 3.79,
+    "constellation": "Perseus",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "0.98",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.158258,
+      "declination": 44.857544
+    },
+    "catalogs": {
+      "hip": "14668",
+      "hd": "19476"
+    }
+  },
+  {
+    "name": "Botein",
+    "distance": 169.7189242,
+    "magnitude": 4.35,
+    "constellation": "Aries",
+    "type": "K2IIIvar",
+    "spectral_group": "K",
+    "spectral_class": "1.033",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.193822,
+      "declination": 19.726677
+    },
+    "catalogs": {
+      "hip": "14838",
+      "hd": "19787"
+    }
+  },
+  {
+    "name": "Dalim",
+    "distance": 46.4407678,
+    "magnitude": 3.8,
+    "constellation": "Fornax",
+    "type": "F8V",
+    "spectral_group": "F",
+    "spectral_class": "0.543",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.201249,
+      "declination": -28.987618
+    },
+    "catalogs": {
+      "hip": "14879",
+      "hd": "20010"
+    }
+  },
+  {
+    "name": "Zibal",
+    "distance": 109.7578188,
+    "magnitude": 4.8,
+    "constellation": "Eridanus",
+    "type": "A5m",
+    "spectral_group": "A",
+    "spectral_class": "0.232",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.263896,
+      "declination": -8.81973
+    },
+    "catalogs": {
+      "hip": "15197",
+      "hd": "20320"
+    }
+  },
+  {
+    "name": "82 G. Eri",
+    "distance": 19.7135708,
+    "magnitude": 4.26,
+    "constellation": "Eridanus",
+    "type": "G8V",
+    "spectral_group": "G",
+    "spectral_class": "0.711",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.331944,
+      "declination": -43.069784
+    },
+    "catalogs": {
+      "hip": "15510",
+      "hd": "20794"
+    }
+  },
+  {
+    "name": "Ran",
+    "distance": 10.4909182,
+    "magnitude": 3.72,
+    "constellation": "Eridanus",
+    "type": "K2V",
+    "spectral_group": "K",
+    "spectral_class": "0.881",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.548848,
+      "declination": -9.458262
+    },
+    "catalogs": {
+      "hip": "16537",
+      "hd": "22049"
+    }
+  },
+  {
+    "name": "Celaeno",
+    "distance": 377.10970779999997,
+    "magnitude": 5.45,
+    "constellation": "Taurus",
+    "type": "B7IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.034",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.746726,
+      "declination": 24.28947
+    },
+    "catalogs": {
+      "hip": "17489",
+      "hd": "23288"
+    }
+  },
+  {
+    "name": "Electra",
+    "distance": 404.714709,
+    "magnitude": 3.72,
+    "constellation": "Taurus",
+    "type": "B6III",
+    "spectral_group": "B",
+    "spectral_class": "-0.105",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.747927,
+      "declination": 24.113339
+    },
+    "catalogs": {
+      "hip": "17499",
+      "hd": "23302"
+    }
+  },
+  {
+    "name": "Taygeta",
+    "distance": 409.284771,
+    "magnitude": 4.3,
+    "constellation": "Taurus",
+    "type": "B6V",
+    "spectral_group": "B",
+    "spectral_class": "-0.11",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.75347,
+      "declination": 24.467278
+    },
+    "catalogs": {
+      "hip": "17531",
+      "hd": "23338"
+    }
+  },
+  {
+    "name": "Maia",
+    "distance": 383.3137056,
+    "magnitude": 3.87,
+    "constellation": "Taurus",
+    "type": "B8III",
+    "spectral_group": "B",
+    "spectral_class": "-0.063",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.763779,
+      "declination": 24.367748
+    },
+    "catalogs": {
+      "hip": "17573",
+      "hd": "23408"
+    }
+  },
+  {
+    "name": "Asterope",
+    "distance": 371.9498762,
+    "magnitude": 5.76,
+    "constellation": "Taurus",
+    "type": "B8V",
+    "spectral_group": "B",
+    "spectral_class": "-0.036",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.765132,
+      "declination": 24.554511
+    },
+    "catalogs": {
+      "hip": "17579",
+      "hd": "23432"
+    }
+  },
+  {
+    "name": "Merope",
+    "distance": 380.1864262,
+    "magnitude": 4.14,
+    "constellation": "Taurus",
+    "type": "B6IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.051",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.772104,
+      "declination": 23.948358
+    },
+    "catalogs": {
+      "hip": "17608",
+      "hd": "23480"
+    }
+  },
+  {
+    "name": "Alcyone",
+    "distance": 403.21386279999996,
+    "magnitude": 2.85,
+    "constellation": "Taurus",
+    "type": "B7III",
+    "spectral_group": "B",
+    "spectral_class": "-0.086",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.79141,
+      "declination": 24.105137
+    },
+    "catalogs": {
+      "hip": "17702",
+      "hd": "23630"
+    }
+  },
+  {
+    "name": "Atlas",
+    "distance": 382.4150246,
+    "magnitude": 3.62,
+    "constellation": "Taurus",
+    "type": "B8III",
+    "spectral_group": "B",
+    "spectral_class": "-0.07",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.819373,
+      "declination": 24.053415
+    },
+    "catalogs": {
+      "hip": "17847",
+      "hd": "23850"
+    }
+  },
+  {
+    "name": "Pleione",
+    "distance": 381.967152,
+    "magnitude": 5.05,
+    "constellation": "Taurus",
+    "type": "B7p",
+    "spectral_group": "B",
+    "spectral_class": "-0.082",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.819782,
+      "declination": 24.136712
+    },
+    "catalogs": {
+      "hip": "17851",
+      "hd": "23862"
+    }
+  },
+  {
+    "name": "Zaurak",
+    "distance": 203.3664542,
+    "magnitude": 2.97,
+    "constellation": "Eridanus",
+    "type": "M1IIIb Ca-1",
+    "spectral_group": "M",
+    "spectral_class": "1.588",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 3.967157,
+      "declination": -13.508515
+    },
+    "catalogs": {
+      "hip": "18543",
+      "hd": "25025"
+    }
+  },
+  {
+    "name": "Beid",
+    "distance": 121.7163108,
+    "magnitude": 4.04,
+    "constellation": "Eridanus",
+    "type": "F2II-III",
+    "spectral_group": "F",
+    "spectral_class": "0.327",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.197761,
+      "declination": -6.837581
+    },
+    "catalogs": {
+      "hip": "19587",
+      "hd": "26574"
+    }
+  },
+  {
+    "name": "Keid",
+    "distance": 16.259439,
+    "magnitude": 4.43,
+    "constellation": "Eridanus",
+    "type": "K1V",
+    "spectral_group": "K",
+    "spectral_class": "0.82",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.254537,
+      "declination": -7.652871
+    },
+    "catalogs": {
+      "hip": "19849",
+      "hd": "26965"
+    }
+  },
+  {
+    "name": "Prima Hyadum",
+    "distance": 161.565229,
+    "magnitude": 3.65,
+    "constellation": "Taurus",
+    "type": "G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.981",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.329889,
+      "declination": 15.627642
+    },
+    "catalogs": {
+      "hip": "20205",
+      "hd": "27371"
+    }
+  },
+  {
+    "name": "Secunda Hyadum",
+    "distance": 155.62969379999998,
+    "magnitude": 3.77,
+    "constellation": "Taurus",
+    "type": "G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.983",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.382247,
+      "declination": 17.542514
+    },
+    "catalogs": {
+      "hip": "20455",
+      "hd": "27697"
+    }
+  },
+  {
+    "name": "Beemim",
+    "distance": 296.276043,
+    "magnitude": 3.97,
+    "constellation": "Eridanus",
+    "type": "K4III",
+    "spectral_group": "K",
+    "spectral_class": "1.468",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.400613,
+      "declination": -34.016846
+    },
+    "catalogs": {
+      "hip": "20535",
+      "hd": "28028"
+    }
+  },
+  {
+    "name": "Ain",
+    "distance": 146.67256799999998,
+    "magnitude": 3.53,
+    "constellation": "Taurus",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.014",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.476943,
+      "declination": 19.180431
+    },
+    "catalogs": {
+      "hip": "20889",
+      "hd": "28305"
+    }
+  },
+  {
+    "name": "Chamukuy",
+    "distance": 150.3919004,
+    "magnitude": 3.4,
+    "constellation": "Taurus",
+    "type": "A7III",
+    "spectral_group": "A",
+    "spectral_class": "0.179",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.477705,
+      "declination": 15.870883
+    },
+    "catalogs": {
+      "hip": "20894",
+      "hd": "28319"
+    }
+  },
+  {
+    "name": "Theemin",
+    "distance": 213.90173560000002,
+    "magnitude": 3.81,
+    "constellation": "Eridanus",
+    "type": "G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.957",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.592512,
+      "declination": -30.562341
+    },
+    "catalogs": {
+      "hip": "21393",
+      "hd": "29291"
+    }
+  },
+  {
+    "name": "Aldebaran",
+    "distance": 66.6530984,
+    "magnitude": 0.87,
+    "constellation": "Taurus",
+    "type": "K5III",
+    "spectral_group": "K",
+    "spectral_class": "1.538",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.598677,
+      "declination": 16.509301
+    },
+    "catalogs": {
+      "hip": "21421",
+      "hd": "29139"
+    }
+  },
+  {
+    "name": "Sceptrum",
+    "distance": 109.86872679999999,
+    "magnitude": 3.86,
+    "constellation": "Eridanus",
+    "type": "K1III",
+    "spectral_group": "K",
+    "spectral_class": "1.082",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.63634,
+      "declination": -14.30402
+    },
+    "catalogs": {
+      "hip": "21594",
+      "hd": "29503"
+    }
+  },
+  {
+    "name": "Tabit",
+    "distance": 26.3191208,
+    "magnitude": 3.19,
+    "constellation": "Orion",
+    "type": "F6V",
+    "spectral_group": "F",
+    "spectral_class": "0.484",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 4.830669,
+      "declination": 6.961276
+    },
+    "catalogs": {
+      "hip": "22449",
+      "hd": "30652"
+    }
+  },
+  {
+    "name": "Haedus",
+    "distance": 243.43294780000002,
+    "magnitude": 3.18,
+    "constellation": "Auriga",
+    "type": "B3V",
+    "spectral_group": "B",
+    "spectral_class": "-0.148",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.10858,
+      "declination": 41.234474
+    },
+    "catalogs": {
+      "hip": "23767",
+      "hd": "32630"
+    }
+  },
+  {
+    "name": "Cursa",
+    "distance": 89.3699926,
+    "magnitude": 2.78,
+    "constellation": "Eridanus",
+    "type": "A3IIIvar",
+    "spectral_group": "A",
+    "spectral_class": "0.161",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.130829,
+      "declination": -5.086446
+    },
+    "catalogs": {
+      "hip": "23875",
+      "hd": "33111"
+    }
+  },
+  {
+    "name": "Capella",
+    "distance": 42.8085308,
+    "magnitude": 0.08,
+    "constellation": "Auriga",
+    "type": "M1: comp",
+    "spectral_group": "M",
+    "spectral_class": "0.795",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.27815,
+      "declination": 45.997991
+    },
+    "catalogs": {
+      "hip": "24608",
+      "hd": "34029"
+    }
+  },
+  {
+    "name": "Bellatrix",
+    "distance": 252.47684280000001,
+    "magnitude": 1.64,
+    "constellation": "Orion",
+    "type": "B2III",
+    "spectral_group": "B",
+    "spectral_class": "-0.224",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.418851,
+      "declination": 6.349702
+    },
+    "catalogs": {
+      "hip": "25336",
+      "hd": "35468"
+    }
+  },
+  {
+    "name": "Elnath",
+    "distance": 133.9080358,
+    "magnitude": 1.65,
+    "constellation": "Taurus",
+    "type": "B7III",
+    "spectral_group": "B",
+    "spectral_class": "-0.13",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.438198,
+      "declination": 28.60745
+    },
+    "catalogs": {
+      "hip": "25428",
+      "hd": "35497"
+    }
+  },
+  {
+    "name": "Nihal",
+    "distance": 160.3736204,
+    "magnitude": 2.81,
+    "constellation": "Lepus",
+    "type": "G5II",
+    "spectral_group": "G",
+    "spectral_class": "0.807",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.470756,
+      "declination": -20.759441
+    },
+    "catalogs": {
+      "hip": "25606",
+      "hd": "36079"
+    }
+  },
+  {
+    "name": "Tianguan",
+    "distance": 445.0203072,
+    "magnitude": 2.97,
+    "constellation": "Taurus",
+    "type": "B4IIIp",
+    "spectral_group": "B",
+    "spectral_class": "-0.148",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.627413,
+      "declination": 21.142549
+    },
+    "catalogs": {
+      "hip": "26451",
+      "hd": "37202"
+    }
+  },
+  {
+    "name": "Phact",
+    "distance": 261.3781884,
+    "magnitude": 2.65,
+    "constellation": "Columba",
+    "type": "B7IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.12",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.660817,
+      "declination": -34.074108
+    },
+    "catalogs": {
+      "hip": "26634",
+      "hd": "37795"
+    }
+  },
+  {
+    "name": "Wazn",
+    "distance": 87.1958696,
+    "magnitude": 3.12,
+    "constellation": "Columba",
+    "type": "K1.5III",
+    "spectral_group": "K",
+    "spectral_class": "1.146",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.849329,
+      "declination": -35.768309
+    },
+    "catalogs": {
+      "hip": "27628",
+      "hd": "39425"
+    }
+  },
+  {
+    "name": "Menkalinan",
+    "distance": 81.1239828,
+    "magnitude": 1.9,
+    "constellation": "Auriga",
+    "type": "A2V",
+    "spectral_group": "A",
+    "spectral_class": "0.077",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.992149,
+      "declination": 44.947433
+    },
+    "catalogs": {
+      "hip": "28360",
+      "hd": "40183"
+    }
+  },
+  {
+    "name": "Mahasim",
+    "distance": 165.5836868,
+    "magnitude": 2.65,
+    "constellation": "Auriga",
+    "type": "A0p Si",
+    "spectral_group": "A",
+    "spectral_class": "-0.083",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 5.995351,
+      "declination": 37.212585
+    },
+    "catalogs": {
+      "hip": "28380",
+      "hd": "40312"
+    }
+  },
+  {
+    "name": "Propus",
+    "distance": 384.669719,
+    "magnitude": 3.31,
+    "constellation": "Gemini",
+    "type": "M3III",
+    "spectral_group": "M",
+    "spectral_class": "1.6",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 6.247961,
+      "declination": 22.506799
+    },
+    "catalogs": {
+      "hip": "29655",
+      "hd": "42995"
+    }
+  },
+  {
+    "name": "Furud",
+    "distance": 362.4444082,
+    "magnitude": 3.02,
+    "constellation": "Canis Major",
+    "type": "B2.5V",
+    "spectral_group": "B",
+    "spectral_class": "-0.16",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 6.338553,
+      "declination": -30.063367
+    },
+    "catalogs": {
+      "hip": "30122",
+      "hd": "44402"
+    }
+  },
+  {
+    "name": "Tejat",
+    "distance": 231.67604740000002,
+    "magnitude": 2.87,
+    "constellation": "Gemini",
+    "type": "M3IIIvar",
+    "spectral_group": "M",
+    "spectral_class": "1.621",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 6.382673,
+      "declination": 22.513586
+    },
+    "catalogs": {
+      "hip": "30343",
+      "hd": "44478"
+    }
+  },
+  {
+    "name": "Canopus",
+    "distance": 309.19421539999996,
+    "magnitude": -0.62,
+    "constellation": "Carina",
+    "type": "F0Ib",
+    "spectral_group": "F",
+    "spectral_class": "0.164",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 6.399195,
+      "declination": -52.69566
+    },
+    "catalogs": {
+      "hip": "30438",
+      "hd": "45348"
+    }
+  },
+  {
+    "name": "Alhena",
+    "distance": 109.31647019999998,
+    "magnitude": 1.93,
+    "constellation": "Gemini",
+    "type": "A0IV",
+    "spectral_group": "A",
+    "spectral_class": "0.001",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 6.628528,
+      "declination": 16.399252
+    },
+    "catalogs": {
+      "hip": "31681",
+      "hd": "47105"
+    }
+  },
+  {
+    "name": "Sirius",
+    "distance": 8.602220200000001,
+    "magnitude": -1.44,
+    "constellation": "Canis Major",
+    "type": "A0m...",
+    "spectral_group": "A",
+    "spectral_class": "0.009",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 6.752481,
+      "declination": -16.716116
+    },
+    "catalogs": {
+      "hip": "32349",
+      "hd": "48915"
+    }
+  },
+  {
+    "name": "Alzirr",
+    "distance": 58.7114332,
+    "magnitude": 3.35,
+    "constellation": "Gemini",
+    "type": "F5IV",
+    "spectral_group": "F",
+    "spectral_class": "0.443",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 6.754824,
+      "declination": 12.895591
+    },
+    "catalogs": {
+      "hip": "32362",
+      "hd": "48737"
+    }
+  },
+  {
+    "name": "Adhara",
+    "distance": 405.21738320000003,
+    "magnitude": 1.5,
+    "constellation": "Canis Major",
+    "type": "B2II",
+    "spectral_group": "B",
+    "spectral_class": "-0.211",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 6.977097,
+      "declination": -28.972084
+    },
+    "catalogs": {
+      "hip": "33579",
+      "hd": "52089"
+    }
+  },
+  {
+    "name": "Muliphein",
+    "distance": 442.00556679999994,
+    "magnitude": 4.11,
+    "constellation": "Canis Major",
+    "type": "B8II",
+    "spectral_group": "B",
+    "spectral_class": "-0.112",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 7.062637,
+      "declination": -15.633286
+    },
+    "catalogs": {
+      "hip": "34045",
+      "hd": "53244"
+    }
+  },
+  {
+    "name": "Wasat",
+    "distance": 60.474544200000004,
+    "magnitude": 3.5,
+    "constellation": "Gemini",
+    "type": "F0IV...",
+    "spectral_group": "F",
+    "spectral_class": "0.374",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 7.335383,
+      "declination": 21.98232
+    },
+    "catalogs": {
+      "hip": "35550",
+      "hd": "56986"
+    }
+  },
+  {
+    "name": "Gomeisa",
+    "distance": 161.7253932,
+    "magnitude": 2.89,
+    "constellation": "Canis Minor",
+    "type": "B8Vvar",
+    "spectral_group": "B",
+    "spectral_class": "-0.097",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 7.452512,
+      "declination": 8.289315
+    },
+    "catalogs": {
+      "hip": "36188",
+      "hd": "58715"
+    }
+  },
+  {
+    "name": "Castor",
+    "distance": 50.8734996,
+    "magnitude": 1.58,
+    "constellation": "Gemini",
+    "type": "A2Vm",
+    "spectral_group": "A",
+    "spectral_class": "0.034",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 7.576634,
+      "declination": 31.888276
+    },
+    "catalogs": {
+      "hip": "36850",
+      "hd": "60179"
+    }
+  },
+  {
+    "name": "Jishui",
+    "distance": 166.3437328,
+    "magnitude": 4.89,
+    "constellation": "Gemini",
+    "type": "F3III",
+    "spectral_group": "F",
+    "spectral_class": "0.413",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 7.65276,
+      "declination": 34.584346
+    },
+    "catalogs": {
+      "hip": "37265",
+      "hd": "61110"
+    }
+  },
+  {
+    "name": "Procyon",
+    "distance": 11.4633204,
+    "magnitude": 0.4,
+    "constellation": "Canis Minor",
+    "type": "F5IV-V",
+    "spectral_group": "F",
+    "spectral_class": "0.432",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 7.655033,
+      "declination": 5.224993
+    },
+    "catalogs": {
+      "hip": "37279",
+      "hd": "61421"
+    }
+  },
+  {
+    "name": "Pollux",
+    "distance": 33.7891008,
+    "magnitude": 1.16,
+    "constellation": "Gemini",
+    "type": "K0IIIvar",
+    "spectral_group": "K",
+    "spectral_class": "0.991",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 7.755277,
+      "declination": 28.026199
+    },
+    "catalogs": {
+      "hip": "37826",
+      "hd": "62509"
+    }
+  },
+  {
+    "name": "Tureis",
+    "distance": 63.5496316,
+    "magnitude": 2.83,
+    "constellation": "Puppis",
+    "type": "F2mF5IIp",
+    "spectral_group": "F",
+    "spectral_class": "0.458",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.125737,
+      "declination": -24.304324
+    },
+    "catalogs": {
+      "hip": "39757",
+      "hd": "67523"
+    }
+  },
+  {
+    "name": "Tarf",
+    "distance": 303.4420046,
+    "magnitude": 3.53,
+    "constellation": "Cancer",
+    "type": "K4III",
+    "spectral_group": "K",
+    "spectral_class": "1.481",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.275256,
+      "declination": 9.185545
+    },
+    "catalogs": {
+      "hip": "40526",
+      "hd": "69267"
+    }
+  },
+  {
+    "name": "Piautos",
+    "distance": 457.503655,
+    "magnitude": 5.92,
+    "constellation": "Cancer",
+    "type": "B9.5V",
+    "spectral_group": "B",
+    "spectral_class": "-0.039",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.34226,
+      "declination": 24.022314
+    },
+    "catalogs": {
+      "hip": "40881",
+      "hd": "70011"
+    }
+  },
+  {
+    "name": "Alsciaukat",
+    "distance": 382.4150246,
+    "magnitude": 4.25,
+    "constellation": "Lynx",
+    "type": "K5III",
+    "spectral_group": "K",
+    "spectral_class": "1.55",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.380588,
+      "declination": 43.188131
+    },
+    "catalogs": {
+      "hip": "41075",
+      "hd": "70272"
+    }
+  },
+  {
+    "name": "Muscida",
+    "distance": 179.13240380000002,
+    "magnitude": 3.35,
+    "constellation": "Ursa Major",
+    "type": "G4II-III",
+    "spectral_group": "G",
+    "spectral_class": "0.856",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.504431,
+      "declination": 60.718169
+    },
+    "catalogs": {
+      "hip": "41704",
+      "hd": "71369"
+    }
+  },
+  {
+    "name": "Minchir",
+    "distance": 372.7999534,
+    "magnitude": 4.45,
+    "constellation": "Hydra",
+    "type": "K2III",
+    "spectral_group": "K",
+    "spectral_class": "1.216",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.645955,
+      "declination": 3.341435
+    },
+    "catalogs": {
+      "hip": "42402",
+      "hd": "73471"
+    }
+  },
+  {
+    "name": "Asellus Borealis",
+    "distance": 181.2223672,
+    "magnitude": 4.66,
+    "constellation": "Cancer",
+    "type": "A1IV",
+    "spectral_group": "A",
+    "spectral_class": "0.01",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.721431,
+      "declination": 21.468501
+    },
+    "catalogs": {
+      "hip": "42806",
+      "hd": "74198"
+    }
+  },
+  {
+    "name": "Asellus Australis",
+    "distance": 130.584384,
+    "magnitude": 3.94,
+    "constellation": "Cancer",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.083",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.74475,
+      "declination": 18.154309
+    },
+    "catalogs": {
+      "hip": "42911",
+      "hd": "74442"
+    }
+  },
+  {
+    "name": "Alsephina",
+    "distance": 80.56324500000001,
+    "magnitude": 1.93,
+    "constellation": "Vela",
+    "type": "A1V",
+    "spectral_group": "A",
+    "spectral_class": "0.043",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.745059,
+      "declination": -54.708821
+    },
+    "catalogs": {
+      "hip": "42913",
+      "hd": "74956"
+    }
+  },
+  {
+    "name": "Ashlesha",
+    "distance": 129.2906748,
+    "magnitude": 3.38,
+    "constellation": "Hydra",
+    "type": "G0III-IV",
+    "spectral_group": "G",
+    "spectral_class": "0.685",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.779587,
+      "declination": 6.418809
+    },
+    "catalogs": {
+      "hip": "43109",
+      "hd": "74874"
+    }
+  },
+  {
+    "name": "Copernicus",
+    "distance": 40.2566682,
+    "magnitude": 5.96,
+    "constellation": "Cancer",
+    "type": "G8V",
+    "spectral_group": "G",
+    "spectral_class": "0.869",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.876625,
+      "declination": 28.330819
+    },
+    "catalogs": {
+      "hip": "43587",
+      "hd": "75732"
+    }
+  },
+  {
+    "name": "Acubens",
+    "distance": 188.3371154,
+    "magnitude": 4.26,
+    "constellation": "Cancer",
+    "type": "A5m",
+    "spectral_group": "A",
+    "spectral_class": "0.141",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.974784,
+      "declination": 11.857701
+    },
+    "catalogs": {
+      "hip": "44066",
+      "hd": "76756"
+    }
+  },
+  {
+    "name": "Talitha",
+    "distance": 47.3303152,
+    "magnitude": 3.12,
+    "constellation": "Ursa Major",
+    "type": "A7IV",
+    "spectral_group": "A",
+    "spectral_class": "0.223",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 8.986828,
+      "declination": 48.041826
+    },
+    "catalogs": {
+      "hip": "44127",
+      "hd": "76644"
+    }
+  },
+  {
+    "name": "Alkaphrah",
+    "distance": 358.46150620000003,
+    "magnitude": 3.57,
+    "constellation": "Ursa Major",
+    "type": "A1Vn",
+    "spectral_group": "A",
+    "spectral_class": "0.007",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.060427,
+      "declination": 47.156525
+    },
+    "catalogs": {
+      "hip": "44471",
+      "hd": "77327"
+    }
+  },
+  {
+    "name": "Nahn",
+    "distance": 373.226623,
+    "magnitude": 5.16,
+    "constellation": "Cancer",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "0.97",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.155982,
+      "declination": 22.045446
+    },
+    "catalogs": {
+      "hip": "44946",
+      "hd": "78515"
+    }
+  },
+  {
+    "name": "Miaplacidus",
+    "distance": 113.18520219999999,
+    "magnitude": 1.67,
+    "constellation": "Carina",
+    "type": "A2IV",
+    "spectral_group": "A",
+    "spectral_class": "0.07",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.220041,
+      "declination": -69.717208
+    },
+    "catalogs": {
+      "hip": "45238",
+      "hd": "80007"
+    }
+  },
+  {
+    "name": "Alphard",
+    "distance": 180.3207504,
+    "magnitude": 1.99,
+    "constellation": "Hydra",
+    "type": "K3III",
+    "spectral_group": "K",
+    "spectral_class": "1.44",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.45979,
+      "declination": -8.658603
+    },
+    "catalogs": {
+      "hip": "46390",
+      "hd": "81797"
+    }
+  },
+  {
+    "name": "Intercrus",
+    "distance": 279.9999678,
+    "magnitude": 5.4,
+    "constellation": "Ursa Major",
+    "type": "K0III-IV",
+    "spectral_group": "K",
+    "spectral_class": "0.993",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.477775,
+      "declination": 45.601483
+    },
+    "catalogs": {
+      "hip": "46471",
+      "hd": "81688"
+    }
+  },
+  {
+    "name": "Alterf",
+    "distance": 329.1625484,
+    "magnitude": 4.32,
+    "constellation": "Leo",
+    "type": "K5IIIvar",
+    "spectral_group": "K",
+    "spectral_class": "1.541",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.528675,
+      "declination": 22.967971
+    },
+    "catalogs": {
+      "hip": "46750",
+      "hd": "82308"
+    }
+  },
+  {
+    "name": "Ukdah",
+    "distance": 263.2769986,
+    "magnitude": 3.9,
+    "constellation": "Hydra",
+    "type": "K3IIIvar",
+    "spectral_group": "K",
+    "spectral_class": "1.313",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.664267,
+      "declination": -1.14281
+    },
+    "catalogs": {
+      "hip": "47431",
+      "hd": "83618"
+    }
+  },
+  {
+    "name": "Subra",
+    "distance": 130.3237502,
+    "magnitude": 3.52,
+    "constellation": "Leo",
+    "type": "A5V+...",
+    "spectral_group": "A",
+    "spectral_class": "0.516",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.685843,
+      "declination": 9.892308
+    },
+    "catalogs": {
+      "hip": "47508",
+      "hd": "83808"
+    }
+  },
+  {
+    "name": "Ras Elased Australis",
+    "distance": 246.747466,
+    "magnitude": 2.97,
+    "constellation": "Leo",
+    "type": "G0II",
+    "spectral_group": "G",
+    "spectral_class": "0.808",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.764188,
+      "declination": 23.774255
+    },
+    "catalogs": {
+      "hip": "47908",
+      "hd": "84441"
+    }
+  },
+  {
+    "name": "Zhang",
+    "distance": 263.9156982,
+    "magnitude": 4.11,
+    "constellation": "Hydra",
+    "type": "G6/G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.918",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.85797,
+      "declination": -14.846603
+    },
+    "catalogs": {
+      "hip": "48356",
+      "hd": "85444"
+    }
+  },
+  {
+    "name": "Rasalas",
+    "distance": 124.1249716,
+    "magnitude": 3.88,
+    "constellation": "Leo",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.222",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 9.879398,
+      "declination": 26.006951
+    },
+    "catalogs": {
+      "hip": "48455",
+      "hd": "85503"
+    }
+  },
+  {
+    "name": "Regulus",
+    "distance": 79.30965839999999,
+    "magnitude": 1.36,
+    "constellation": "Leo",
+    "type": "B7V",
+    "spectral_group": "B",
+    "spectral_class": "-0.087",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 10.139532,
+      "declination": 11.967207
+    },
+    "catalogs": {
+      "hip": "49669",
+      "hd": "87901"
+    }
+  },
+  {
+    "name": "Adhafera",
+    "distance": 274.1176032,
+    "magnitude": 3.43,
+    "constellation": "Leo",
+    "type": "F0III",
+    "spectral_group": "F",
+    "spectral_class": "0.307",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 10.278171,
+      "declination": 23.417311
+    },
+    "catalogs": {
+      "hip": "50335",
+      "hd": "89025"
+    }
+  },
+  {
+    "name": "Tania Borealis",
+    "distance": 137.52102699999998,
+    "magnitude": 3.45,
+    "constellation": "Ursa Major",
+    "type": "A2IV",
+    "spectral_group": "A",
+    "spectral_class": "0.029",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 10.284952,
+      "declination": 42.914365
+    },
+    "catalogs": {
+      "hip": "50372",
+      "hd": "89021"
+    }
+  },
+  {
+    "name": "Algieba",
+    "distance": 130.1156346,
+    "magnitude": 2.01,
+    "constellation": "Leo",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.128",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 10.332873,
+      "declination": 19.841489
+    },
+    "catalogs": {
+      "hip": "50583",
+      "hd": "89484"
+    }
+  },
+  {
+    "name": "Tania Australis",
+    "distance": 230.367333,
+    "magnitude": 3.06,
+    "constellation": "Ursa Major",
+    "type": "M0III SB",
+    "spectral_group": "M",
+    "spectral_class": "1.603",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 10.372155,
+      "declination": 41.499516
+    },
+    "catalogs": {
+      "hip": "50801",
+      "hd": "89758"
+    }
+  },
+  {
+    "name": "Praecipua",
+    "distance": 94.8808154,
+    "magnitude": 3.79,
+    "constellation": "Leo Minor",
+    "type": "K0III-IV",
+    "spectral_group": "K",
+    "spectral_class": "1.04",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 10.888526,
+      "declination": 34.214871
+    },
+    "catalogs": {
+      "hip": "53229",
+      "hd": "94264"
+    }
+  },
+  {
+    "name": "Chalawan",
+    "distance": 45.872527399999996,
+    "magnitude": 5.03,
+    "constellation": "Ursa Major",
+    "type": "G0V",
+    "spectral_group": "G",
+    "spectral_class": "0.624",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 10.99112,
+      "declination": 40.430257
+    },
+    "catalogs": {
+      "hip": "53721",
+      "hd": "95128"
+    }
+  },
+  {
+    "name": "Alkes",
+    "distance": 159.1996266,
+    "magnitude": 4.08,
+    "constellation": "Crater",
+    "type": "K1III",
+    "spectral_group": "K",
+    "spectral_class": "1.079",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 10.996244,
+      "declination": -18.298783
+    },
+    "catalogs": {
+      "hip": "53740",
+      "hd": "95272"
+    }
+  },
+  {
+    "name": "Merak",
+    "distance": 79.7555738,
+    "magnitude": 2.34,
+    "constellation": "Ursa Major",
+    "type": "A1V",
+    "spectral_group": "A",
+    "spectral_class": "0.033",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.030677,
+      "declination": 56.382427
+    },
+    "catalogs": {
+      "hip": "53910",
+      "hd": "95418"
+    }
+  },
+  {
+    "name": "Dubhe",
+    "distance": 122.90889800000001,
+    "magnitude": 1.81,
+    "constellation": "Ursa Major",
+    "type": "F7V comp",
+    "spectral_group": "F",
+    "spectral_class": "1.061",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.062155,
+      "declination": 61.751033
+    },
+    "catalogs": {
+      "hip": "54061",
+      "hd": "95689"
+    }
+  },
+  {
+    "name": "Zosma",
+    "distance": 58.437751399999996,
+    "magnitude": 2.56,
+    "constellation": "Leo",
+    "type": "A4V",
+    "spectral_group": "A",
+    "spectral_class": "0.128",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.235138,
+      "declination": 20.523717
+    },
+    "catalogs": {
+      "hip": "54872",
+      "hd": "97603"
+    }
+  },
+  {
+    "name": "Chertan",
+    "distance": 165.0810126,
+    "magnitude": 3.33,
+    "constellation": "Leo",
+    "type": "A2V",
+    "spectral_group": "A",
+    "spectral_class": "-0.003",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.237335,
+      "declination": 15.42957
+    },
+    "catalogs": {
+      "hip": "54879",
+      "hd": "97633"
+    }
+  },
+  {
+    "name": "Alula Borealis",
+    "distance": 399.265538,
+    "magnitude": 3.49,
+    "constellation": "Ursa Major",
+    "type": "K3III SB",
+    "spectral_group": "K",
+    "spectral_class": "1.4",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.307983,
+      "declination": 33.094306
+    },
+    "catalogs": {
+      "hip": "55219",
+      "hd": "98262"
+    }
+  },
+  {
+    "name": "Giausar",
+    "distance": 333.19698999999997,
+    "magnitude": 3.82,
+    "constellation": "Draco",
+    "type": "M0IIIvar",
+    "spectral_group": "M",
+    "spectral_class": "1.613",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.523407,
+      "declination": 69.331076
+    },
+    "catalogs": {
+      "hip": "56211",
+      "hd": "100029"
+    }
+  },
+  {
+    "name": "Taiyangshou",
+    "distance": 183.6711506,
+    "magnitude": 3.69,
+    "constellation": "Ursa Major",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.181",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.767515,
+      "declination": 47.779406
+    },
+    "catalogs": {
+      "hip": "57399",
+      "hd": "102224"
+    }
+  },
+  {
+    "name": "Denebola",
+    "distance": 35.8816738,
+    "magnitude": 2.14,
+    "constellation": "Leo",
+    "type": "A3Vvar",
+    "spectral_group": "A",
+    "spectral_class": "0.09",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.817663,
+      "declination": 14.57206
+    },
+    "catalogs": {
+      "hip": "57632",
+      "hd": "102647"
+    }
+  },
+  {
+    "name": "Zavijava",
+    "distance": 35.650398,
+    "magnitude": 3.59,
+    "constellation": "Virgo",
+    "type": "F8V",
+    "spectral_group": "F",
+    "spectral_class": "0.518",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.844922,
+      "declination": 1.764718
+    },
+    "catalogs": {
+      "hip": "57757",
+      "hd": "102870"
+    }
+  },
+  {
+    "name": "Phecda",
+    "distance": 83.1930694,
+    "magnitude": 2.41,
+    "constellation": "Ursa Major",
+    "type": "A0V SB",
+    "spectral_group": "A",
+    "spectral_class": "0.044",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.897168,
+      "declination": 53.69476
+    },
+    "catalogs": {
+      "hip": "58001",
+      "hd": "103287"
+    }
+  },
+  {
+    "name": "Tonatiuh",
+    "distance": 316.6990988,
+    "magnitude": 5.78,
+    "constellation": "Camelopardalis",
+    "type": "G9III",
+    "spectral_group": "G",
+    "spectral_class": "1.029",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.087451,
+      "declination": 76.905734
+    },
+    "catalogs": {
+      "hip": "58952",
+      "hd": "104985"
+    }
+  },
+  {
+    "name": "Alchiba",
+    "distance": 48.722863000000004,
+    "magnitude": 4.02,
+    "constellation": "Corvus",
+    "type": "F0IV/V",
+    "spectral_group": "F",
+    "spectral_class": "0.334",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.140225,
+      "declination": -24.728875
+    },
+    "catalogs": {
+      "hip": "59199",
+      "hd": "105452"
+    }
+  },
+  {
+    "name": "Imai",
+    "distance": 345.18516619999997,
+    "magnitude": 2.79,
+    "constellation": "Crux",
+    "type": "B2IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.193",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.252427,
+      "declination": -58.748928
+    },
+    "catalogs": {
+      "hip": "59747",
+      "hd": "106490"
+    }
+  },
+  {
+    "name": "Megrez",
+    "distance": 80.52344860000001,
+    "magnitude": 3.32,
+    "constellation": "Ursa Major",
+    "type": "A3Vvar",
+    "spectral_group": "A",
+    "spectral_class": "0.077",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.257086,
+      "declination": 57.032617
+    },
+    "catalogs": {
+      "hip": "59774",
+      "hd": "106591"
+    }
+  },
+  {
+    "name": "Gienah",
+    "distance": 153.6506384,
+    "magnitude": 2.58,
+    "constellation": "Corvus",
+    "type": "B8III",
+    "spectral_group": "B",
+    "spectral_class": "-0.107",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.263437,
+      "declination": -17.541929
+    },
+    "catalogs": {
+      "hip": "59803",
+      "hd": "106625"
+    }
+  },
+  {
+    "name": "Zaniah",
+    "distance": 265.419154,
+    "magnitude": 3.89,
+    "constellation": "Virgo",
+    "type": "A2IV",
+    "spectral_group": "A",
+    "spectral_class": "0.026",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.331766,
+      "declination": -0.666803
+    },
+    "catalogs": {
+      "hip": "60129",
+      "hd": "107259"
+    }
+  },
+  {
+    "name": "Ginan",
+    "distance": 229.8803164,
+    "magnitude": 3.59,
+    "constellation": "Crux",
+    "type": "K3/K4III",
+    "spectral_group": "K",
+    "spectral_class": "1.389",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.356031,
+      "declination": -60.401147
+    },
+    "catalogs": {
+      "hip": "60260",
+      "hd": "107446"
+    }
+  },
+  {
+    "name": "Acrux",
+    "distance": 322.0138754,
+    "magnitude": 0.77,
+    "constellation": "Crux",
+    "type": "B0.5IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.243",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.443311,
+      "declination": -63.099092
+    },
+    "catalogs": {
+      "hip": "60718",
+      "hd": "108248"
+    }
+  },
+  {
+    "name": "Algorab",
+    "distance": 86.8709744,
+    "magnitude": 2.94,
+    "constellation": "Corvus",
+    "type": "B9.5V",
+    "spectral_group": "B",
+    "spectral_class": "-0.012",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.497739,
+      "declination": -16.515432
+    },
+    "catalogs": {
+      "hip": "60965",
+      "hd": "108767"
+    }
+  },
+  {
+    "name": "Gacrux",
+    "distance": 88.5691716,
+    "magnitude": 1.59,
+    "constellation": "Crux",
+    "type": "M4III",
+    "spectral_group": "M",
+    "spectral_class": "1.6",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.519429,
+      "declination": -57.113212
+    },
+    "catalogs": {
+      "hip": "61084",
+      "hd": "108903"
+    }
+  },
+  {
+    "name": "Chara",
+    "distance": 27.529649000000003,
+    "magnitude": 4.24,
+    "constellation": "Canes Venatici",
+    "type": "G0V",
+    "spectral_group": "G",
+    "spectral_class": "0.588",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.562411,
+      "declination": 41.35748
+    },
+    "catalogs": {
+      "hip": "61317",
+      "hd": "109358"
+    }
+  },
+  {
+    "name": "Kraz",
+    "distance": 145.6900536,
+    "magnitude": 2.65,
+    "constellation": "Corvus",
+    "type": "G5II",
+    "spectral_group": "G",
+    "spectral_class": "0.893",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.573121,
+      "declination": -23.396759
+    },
+    "catalogs": {
+      "hip": "61359",
+      "hd": "109379"
+    }
+  },
+  {
+    "name": "Porrima",
+    "distance": 38.11647,
+    "magnitude": 2.74,
+    "constellation": "Virgo",
+    "type": "F0V+...",
+    "spectral_group": "F",
+    "spectral_class": "0.368",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.694345,
+      "declination": -1.449375
+    },
+    "catalogs": {
+      "hip": "61941",
+      "hd": "110379"
+    }
+  },
+  {
+    "name": "Mimosa",
+    "distance": 278.5653402,
+    "magnitude": 1.25,
+    "constellation": "Crux",
+    "type": "B0.5III",
+    "spectral_group": "B",
+    "spectral_class": "-0.238",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.795359,
+      "declination": -59.688764
+    },
+    "catalogs": {
+      "hip": "62434",
+      "hd": "111123"
+    }
+  },
+  {
+    "name": "Alioth",
+    "distance": 82.56121999999999,
+    "magnitude": 1.76,
+    "constellation": "Ursa Major",
+    "type": "A0p",
+    "spectral_group": "A",
+    "spectral_class": "-0.022",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.900472,
+      "declination": 55.959821
+    },
+    "catalogs": {
+      "hip": "62956",
+      "hd": "112185"
+    }
+  },
+  {
+    "name": "Taiyi",
+    "distance": 95.5478944,
+    "magnitude": 5.23,
+    "constellation": "Draco",
+    "type": "A5n",
+    "spectral_group": "A",
+    "spectral_class": "0.303",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.924598,
+      "declination": 65.438474
+    },
+    "catalogs": {
+      "hip": "63076",
+      "hd": "112429"
+    }
+  },
+  {
+    "name": "Minelauva",
+    "distance": 198.4186526,
+    "magnitude": 3.39,
+    "constellation": "Virgo",
+    "type": "M3III",
+    "spectral_group": "M",
+    "spectral_class": "1.571",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.926725,
+      "declination": 3.39747
+    },
+    "catalogs": {
+      "hip": "63090",
+      "hd": "112300"
+    }
+  },
+  {
+    "name": "Cor Caroli",
+    "distance": 114.8188118,
+    "magnitude": 2.89,
+    "constellation": "Canes Venatici",
+    "type": "A0spe...",
+    "spectral_group": "A",
+    "spectral_class": "-0.115",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 12.933807,
+      "declination": 38.31838
+    },
+    "catalogs": {
+      "hip": "63125",
+      "hd": "112413"
+    }
+  },
+  {
+    "name": "Vindemiatrix",
+    "distance": 109.6103764,
+    "magnitude": 2.85,
+    "constellation": "Virgo",
+    "type": "G8IIIvar",
+    "spectral_group": "G",
+    "spectral_class": "0.934",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 13.036278,
+      "declination": 10.95915
+    },
+    "catalogs": {
+      "hip": "63608",
+      "hd": "113226"
+    }
+  },
+  {
+    "name": "Diadem",
+    "distance": 58.1461286,
+    "magnitude": 4.32,
+    "constellation": "Coma Berenices",
+    "type": "F5V",
+    "spectral_group": "F",
+    "spectral_class": "0.455",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 13.166469,
+      "declination": 17.529431
+    },
+    "catalogs": {
+      "hip": "64241",
+      "hd": "114378"
+    }
+  },
+  {
+    "name": "Mizar",
+    "distance": 85.81963180000001,
+    "magnitude": 2.23,
+    "constellation": "Ursa Major",
+    "type": "A2V",
+    "spectral_group": "A",
+    "spectral_class": "0.057",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 13.398747,
+      "declination": 54.925362
+    },
+    "catalogs": {
+      "hip": "65378",
+      "hd": "116656"
+    }
+  },
+  {
+    "name": "Spica",
+    "distance": 249.77036139999998,
+    "magnitude": 0.98,
+    "constellation": "Virgo",
+    "type": "B1V",
+    "spectral_group": "B",
+    "spectral_class": "-0.235",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 13.419883,
+      "declination": -11.161322
+    },
+    "catalogs": {
+      "hip": "65474",
+      "hd": "116658"
+    }
+  },
+  {
+    "name": "Alcor",
+    "distance": 81.7339768,
+    "magnitude": 3.99,
+    "constellation": "Ursa Major",
+    "type": "A5V SB",
+    "spectral_group": "A",
+    "spectral_class": "0.169",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 13.420413,
+      "declination": 54.987958
+    },
+    "catalogs": {
+      "hip": "65477",
+      "hd": "116842"
+    }
+  },
+  {
+    "name": "Heze",
+    "distance": 74.0858916,
+    "magnitude": 3.38,
+    "constellation": "Virgo",
+    "type": "A3V",
+    "spectral_group": "A",
+    "spectral_class": "0.114",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 13.57822,
+      "declination": -0.59582
+    },
+    "catalogs": {
+      "hip": "66249",
+      "hd": "118098"
+    }
+  },
+  {
+    "name": "Alkaid",
+    "distance": 103.9514588,
+    "magnitude": 1.85,
+    "constellation": "Ursa Major",
+    "type": "B3V SB",
+    "spectral_group": "B",
+    "spectral_class": "-0.099",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 13.792354,
+      "declination": 49.313265
+    },
+    "catalogs": {
+      "hip": "67301",
+      "hd": "120315"
+    }
+  },
+  {
+    "name": "Muphrid",
+    "distance": 37.173752,
+    "magnitude": 2.68,
+    "constellation": "Bo\u00f6tes",
+    "type": "G0IV",
+    "spectral_group": "G",
+    "spectral_class": "0.58",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 13.911411,
+      "declination": 18.397717
+    },
+    "catalogs": {
+      "hip": "67927",
+      "hd": "121370"
+    }
+  },
+  {
+    "name": "Hadar",
+    "distance": 392.0672826,
+    "magnitude": 0.61,
+    "constellation": "Centaurus",
+    "type": "B1III",
+    "spectral_group": "B",
+    "spectral_class": "-0.231",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.063729,
+      "declination": -60.373039
+    },
+    "catalogs": {
+      "hip": "68702",
+      "hd": "122451"
+    }
+  },
+  {
+    "name": "Thuban",
+    "distance": 303.1598416,
+    "magnitude": 3.67,
+    "constellation": "Draco",
+    "type": "A0III SB",
+    "spectral_group": "A",
+    "spectral_class": "-0.049",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.073165,
+      "declination": 64.37585
+    },
+    "catalogs": {
+      "hip": "68756",
+      "hd": "123299"
+    }
+  },
+  {
+    "name": "Menkent",
+    "distance": 58.82788660000001,
+    "magnitude": 2.06,
+    "constellation": "Centaurus",
+    "type": "K0IIIb",
+    "spectral_group": "K",
+    "spectral_class": "1.011",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.111395,
+      "declination": -36.369954
+    },
+    "catalogs": {
+      "hip": "68933",
+      "hd": "123139"
+    }
+  },
+  {
+    "name": "Kang",
+    "distance": 254.84375,
+    "magnitude": 4.18,
+    "constellation": "Virgo",
+    "type": "K3III",
+    "spectral_group": "K",
+    "spectral_class": "1.323",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.214929,
+      "declination": -10.273702
+    },
+    "catalogs": {
+      "hip": "69427",
+      "hd": "124294"
+    }
+  },
+  {
+    "name": "Arcturus",
+    "distance": 36.721965000000004,
+    "magnitude": -0.05,
+    "constellation": "Bo\u00f6tes",
+    "type": "K2IIIp",
+    "spectral_group": "K",
+    "spectral_class": "1.239",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.26103,
+      "declination": 19.18241
+    },
+    "catalogs": {
+      "hip": "69673",
+      "hd": "124897"
+    }
+  },
+  {
+    "name": "Syrma",
+    "distance": 72.537094,
+    "magnitude": 4.07,
+    "constellation": "Virgo",
+    "type": "F7V",
+    "spectral_group": "F",
+    "spectral_class": "0.511",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.266908,
+      "declination": -6.000547
+    },
+    "catalogs": {
+      "hip": "69701",
+      "hd": "124850"
+    }
+  },
+  {
+    "name": "Xuange",
+    "distance": 99.0284484,
+    "magnitude": 4.18,
+    "constellation": "Bo\u00f6tes",
+    "type": "A0sh",
+    "spectral_group": "A",
+    "spectral_class": "0.087",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.273074,
+      "declination": 46.088305
+    },
+    "catalogs": {
+      "hip": "69732",
+      "hd": "125162"
+    }
+  },
+  {
+    "name": "Khambalia",
+    "distance": 186.506481,
+    "magnitude": 4.52,
+    "constellation": "Virgo",
+    "type": "A1V",
+    "spectral_group": "A",
+    "spectral_class": "0.128",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.318498,
+      "declination": -13.371095
+    },
+    "catalogs": {
+      "hip": "69974",
+      "hd": "125337"
+    }
+  },
+  {
+    "name": "Elgafar",
+    "distance": 118.2742484,
+    "magnitude": 4.81,
+    "constellation": "Virgo",
+    "type": "G2III",
+    "spectral_group": "G",
+    "spectral_class": "0.693",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.470038,
+      "declination": -2.227957
+    },
+    "catalogs": {
+      "hip": "70755",
+      "hd": "126868"
+    }
+  },
+  {
+    "name": "Seginus",
+    "distance": 86.8014938,
+    "magnitude": 3.04,
+    "constellation": "Bo\u00f6tes",
+    "type": "A7IIIvar",
+    "spectral_group": "A",
+    "spectral_class": "0.191",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.534636,
+      "declination": 38.308253
+    },
+    "catalogs": {
+      "hip": "71075",
+      "hd": "127762"
+    }
+  },
+  {
+    "name": "Toliman",
+    "distance": 4.3214976,
+    "magnitude": 1.35,
+    "constellation": "Centaurus",
+    "type": "K1V",
+    "spectral_group": "K",
+    "spectral_class": "0.9",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.660346,
+      "declination": -60.8383
+    },
+    "catalogs": {
+      "hip": "71681",
+      "hd": "128621"
+    }
+  },
+  {
+    "name": "Rigil Kentaurus",
+    "distance": 4.3214976,
+    "magnitude": -0.01,
+    "constellation": "Centaurus",
+    "type": "G2V",
+    "spectral_group": "G",
+    "spectral_class": "0.71",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.660765,
+      "declination": -60.833976
+    },
+    "catalogs": {
+      "hip": "71683",
+      "hd": "128620"
+    }
+  },
+  {
+    "name": "Izar",
+    "distance": 202.60869160000001,
+    "magnitude": 2.35,
+    "constellation": "Bo\u00f6tes",
+    "type": "A0",
+    "spectral_group": "A",
+    "spectral_class": "0.966",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.749784,
+      "declination": 27.074222
+    },
+    "catalogs": {
+      "hip": "72105",
+      "hd": "129988"
+    }
+  },
+  {
+    "name": "Merga",
+    "distance": 159.8236472,
+    "magnitude": 5.76,
+    "constellation": "Bo\u00f6tes",
+    "type": "F7IVw",
+    "spectral_group": "F",
+    "spectral_class": "0.482",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.821853,
+      "declination": 46.116205
+    },
+    "catalogs": {
+      "hip": "72487",
+      "hd": "130945"
+    }
+  },
+  {
+    "name": "Kochab",
+    "distance": 130.951359,
+    "magnitude": 2.07,
+    "constellation": "Ursa Minor",
+    "type": "K4IIIvar",
+    "spectral_group": "K",
+    "spectral_class": "1.465",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.845105,
+      "declination": 74.155505
+    },
+    "catalogs": {
+      "hip": "72607",
+      "hd": "131873"
+    }
+  },
+  {
+    "name": "Zubenelgenubi",
+    "distance": 75.8075752,
+    "magnitude": 2.75,
+    "constellation": "Libra",
+    "type": "A3IV",
+    "spectral_group": "A",
+    "spectral_class": "0.147",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 14.847977,
+      "declination": -16.041778
+    },
+    "catalogs": {
+      "hip": "72622",
+      "hd": "130841"
+    }
+  },
+  {
+    "name": "Nekkar",
+    "distance": 225.2763296,
+    "magnitude": 3.49,
+    "constellation": "Bo\u00f6tes",
+    "type": "G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.956",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.032436,
+      "declination": 40.390566
+    },
+    "catalogs": {
+      "hip": "73555",
+      "hd": "133208"
+    }
+  },
+  {
+    "name": "Brachium",
+    "distance": 288.4172326,
+    "magnitude": 3.25,
+    "constellation": "Libra",
+    "type": "M3/M4III",
+    "spectral_group": "M",
+    "spectral_class": "1.674",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.067839,
+      "declination": -25.281965
+    },
+    "catalogs": {
+      "hip": "73714",
+      "hd": "133216"
+    }
+  },
+  {
+    "name": "Zubeneschamali",
+    "distance": 185.1305694,
+    "magnitude": 2.61,
+    "constellation": "Libra",
+    "type": "B8V",
+    "spectral_group": "B",
+    "spectral_class": "-0.071",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.283449,
+      "declination": -9.382917
+    },
+    "catalogs": {
+      "hip": "74785",
+      "hd": "135742"
+    }
+  },
+  {
+    "name": "Pherkad",
+    "distance": 486.8655694,
+    "magnitude": 3.0,
+    "constellation": "Ursa Minor",
+    "type": "A3II-III",
+    "spectral_group": "A",
+    "spectral_class": "0.058",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.345483,
+      "declination": 71.834016
+    },
+    "catalogs": {
+      "hip": "75097",
+      "hd": "137422"
+    }
+  },
+  {
+    "name": "Alkalurops",
+    "distance": 113.14605820000001,
+    "magnitude": 4.31,
+    "constellation": "Bo\u00f6tes",
+    "type": "F0V",
+    "spectral_group": "F",
+    "spectral_class": "0.309",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.408181,
+      "declination": 37.377167
+    },
+    "catalogs": {
+      "hip": "75411",
+      "hd": "137391"
+    }
+  },
+  {
+    "name": "Edasich",
+    "distance": 101.210074,
+    "magnitude": 3.29,
+    "constellation": "Draco",
+    "type": "K2III",
+    "spectral_group": "K",
+    "spectral_class": "1.166",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.415494,
+      "declination": 58.966065
+    },
+    "catalogs": {
+      "hip": "75458",
+      "hd": "137759"
+    }
+  },
+  {
+    "name": "Nusakan",
+    "distance": 111.82723159999999,
+    "magnitude": 3.66,
+    "constellation": "Corona Borealis",
+    "type": "F0p",
+    "spectral_group": "F",
+    "spectral_class": "0.319",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.463818,
+      "declination": 29.105703
+    },
+    "catalogs": {
+      "hip": "75695",
+      "hd": "137909"
+    }
+  },
+  {
+    "name": "Alphecca",
+    "distance": 75.0576414,
+    "magnitude": 2.22,
+    "constellation": "Corona Borealis",
+    "type": "A0V",
+    "spectral_group": "A",
+    "spectral_class": "0.032",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.578128,
+      "declination": 26.714693
+    },
+    "catalogs": {
+      "hip": "76267",
+      "hd": "139006"
+    }
+  },
+  {
+    "name": "Zubenelhakrabi",
+    "distance": 163.18155,
+    "magnitude": 3.91,
+    "constellation": "Libra",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.007",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.592105,
+      "declination": -14.789537
+    },
+    "catalogs": {
+      "hip": "76333",
+      "hd": "138905"
+    }
+  },
+  {
+    "name": "Unukalhai",
+    "distance": 73.9681334,
+    "magnitude": 2.63,
+    "constellation": "Serpens",
+    "type": "K2III",
+    "spectral_group": "K",
+    "spectral_class": "1.167",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.737798,
+      "declination": 6.425627
+    },
+    "catalogs": {
+      "hip": "77070",
+      "hd": "140573"
+    }
+  },
+  {
+    "name": "Gudja",
+    "distance": 381.967152,
+    "magnitude": 4.09,
+    "constellation": "Serpens",
+    "type": "M1III",
+    "spectral_group": "M",
+    "spectral_class": "1.616",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.812327,
+      "declination": 18.141564
+    },
+    "catalogs": {
+      "hip": "77450",
+      "hd": "141477"
+    }
+  },
+  {
+    "name": "Iklil",
+    "distance": 472.06946360000006,
+    "magnitude": 3.87,
+    "constellation": "Scorpius",
+    "type": "B2IV/V",
+    "spectral_group": "B",
+    "spectral_class": "-0.199",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 15.948077,
+      "declination": -29.214073
+    },
+    "catalogs": {
+      "hip": "78104",
+      "hd": "142669"
+    }
+  },
+  {
+    "name": "Acrab",
+    "distance": 404.2130134,
+    "magnitude": 2.56,
+    "constellation": "Scorpius",
+    "type": "B0.5V",
+    "spectral_group": "B",
+    "spectral_class": "-0.065",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.09062,
+      "declination": -19.805453
+    },
+    "catalogs": {
+      "hip": "78820",
+      "hd": "144217"
+    }
+  },
+  {
+    "name": "Marsic",
+    "distance": 367.7565752,
+    "magnitude": 5.0,
+    "constellation": "Hercules",
+    "type": "G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.931",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.134591,
+      "declination": 17.04698
+    },
+    "catalogs": {
+      "hip": "79043",
+      "hd": "145001"
+    }
+  },
+  {
+    "name": "Jabbah",
+    "distance": 474.12778560000004,
+    "magnitude": 4.0,
+    "constellation": "Scorpius",
+    "type": "B2IV",
+    "spectral_group": "B",
+    "spectral_class": "0.076",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.199926,
+      "declination": -19.460708
+    },
+    "catalogs": {
+      "hip": "79374",
+      "hd": "145502"
+    }
+  },
+  {
+    "name": "Yed Prior",
+    "distance": 171.14376579999998,
+    "magnitude": 2.73,
+    "constellation": "Ophiuchus",
+    "type": "M1III",
+    "spectral_group": "M",
+    "spectral_class": "1.584",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.239094,
+      "declination": -3.694323
+    },
+    "catalogs": {
+      "hip": "79593",
+      "hd": "146051"
+    }
+  },
+  {
+    "name": "Yed Posterior",
+    "distance": 106.46222019999999,
+    "magnitude": 3.23,
+    "constellation": "Ophiuchus",
+    "type": "G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.966",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.305358,
+      "declination": -4.692511
+    },
+    "catalogs": {
+      "hip": "79882",
+      "hd": "146791"
+    }
+  },
+  {
+    "name": "Athebyne",
+    "distance": 92.0947412,
+    "magnitude": 2.73,
+    "constellation": "Draco",
+    "type": "G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.91",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.39986,
+      "declination": 61.514213
+    },
+    "catalogs": {
+      "hip": "80331",
+      "hd": "148387"
+    }
+  },
+  {
+    "name": "Cujam",
+    "distance": 250.1533202,
+    "magnitude": 4.57,
+    "constellation": "Hercules",
+    "type": "B9p Cr",
+    "spectral_group": "B",
+    "spectral_class": "0.002",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.423598,
+      "declination": 14.03327
+    },
+    "catalogs": {
+      "hip": "80463",
+      "hd": "148112"
+    }
+  },
+  {
+    "name": "Kornephoros",
+    "distance": 139.16377020000002,
+    "magnitude": 2.78,
+    "constellation": "Hercules",
+    "type": "G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.947",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.503668,
+      "declination": 21.489613
+    },
+    "catalogs": {
+      "hip": "80816",
+      "hd": "148856"
+    }
+  },
+  {
+    "name": "Marfik",
+    "distance": 173.14239320000001,
+    "magnitude": 3.82,
+    "constellation": "Ophiuchus",
+    "type": "A2V",
+    "spectral_group": "A",
+    "spectral_class": "0.022",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.515229,
+      "declination": 1.983923
+    },
+    "catalogs": {
+      "hip": "80883",
+      "hd": "148857"
+    }
+  },
+  {
+    "name": "Paikauhale",
+    "distance": 474.12778560000004,
+    "magnitude": 2.82,
+    "constellation": "Scorpius",
+    "type": "B0V",
+    "spectral_group": "B",
+    "spectral_class": "-0.206",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.598043,
+      "declination": -28.216016
+    },
+    "catalogs": {
+      "hip": "81266",
+      "hd": "149438"
+    }
+  },
+  {
+    "name": "Atria",
+    "distance": 390.658751,
+    "magnitude": 1.91,
+    "constellation": "Triangulum Australe",
+    "type": "K2IIb-IIIa",
+    "spectral_group": "K",
+    "spectral_class": "1.447",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.811077,
+      "declination": -69.027715
+    },
+    "catalogs": {
+      "hip": "82273",
+      "hd": "150798"
+    }
+  },
+  {
+    "name": "Larawag",
+    "distance": 63.7234962,
+    "magnitude": 2.29,
+    "constellation": "Scorpius",
+    "type": "K2IIIb",
+    "spectral_group": "K",
+    "spectral_class": "1.144",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.83608,
+      "declination": -34.293232
+    },
+    "catalogs": {
+      "hip": "82396",
+      "hd": "151680"
+    }
+  },
+  {
+    "name": "Pipirima",
+    "distance": 474.12778560000004,
+    "magnitude": 3.56,
+    "constellation": "Scorpius",
+    "type": "B2IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.21",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.872263,
+      "declination": -38.017536
+    },
+    "catalogs": {
+      "hip": "82545",
+      "hd": "151985"
+    }
+  },
+  {
+    "name": "Aldhibah",
+    "distance": 328.4993838,
+    "magnitude": 3.17,
+    "constellation": "Draco",
+    "type": "B6III",
+    "spectral_group": "B",
+    "spectral_class": "-0.12",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.146448,
+      "declination": 65.714683
+    },
+    "catalogs": {
+      "hip": "83895",
+      "hd": "155763"
+    }
+  },
+  {
+    "name": "Sabik",
+    "distance": 88.3770398,
+    "magnitude": 2.43,
+    "constellation": "Ophiuchus",
+    "type": "A2.5Va",
+    "spectral_group": "A",
+    "spectral_class": "0.059",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.172968,
+      "declination": -15.72491
+    },
+    "catalogs": {
+      "hip": "84012",
+      "hd": "155125"
+    }
+  },
+  {
+    "name": "Rasalgethi",
+    "distance": 359.64724320000005,
+    "magnitude": 2.78,
+    "constellation": "Hercules",
+    "type": "M5IIvar",
+    "spectral_group": "M",
+    "spectral_class": "1.164",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.244127,
+      "declination": 14.390333
+    },
+    "catalogs": {
+      "hip": "84345",
+      "hd": "156014"
+    }
+  },
+  {
+    "name": "Sarin",
+    "distance": 75.1440844,
+    "magnitude": 3.12,
+    "constellation": "Hercules",
+    "type": "A3IVv SB",
+    "spectral_group": "A",
+    "spectral_class": "0.08",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.250531,
+      "declination": 24.839204
+    },
+    "catalogs": {
+      "hip": "84379",
+      "hd": "156164"
+    }
+  },
+  {
+    "name": "Guniibuu",
+    "distance": 19.3544246,
+    "magnitude": 4.33,
+    "constellation": "Ophiuchus",
+    "type": "K2:III:",
+    "spectral_group": "K",
+    "spectral_class": "0.855",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.255836,
+      "declination": -26.602829
+    },
+    "catalogs": {
+      "hip": "84405",
+      "hd": "155885"
+    }
+  },
+  {
+    "name": "Rastaban",
+    "distance": 380.1864262,
+    "magnitude": 2.79,
+    "constellation": "Draco",
+    "type": "G2II",
+    "spectral_group": "G",
+    "spectral_class": "0.954",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.507213,
+      "declination": 52.301387
+    },
+    "catalogs": {
+      "hip": "85670",
+      "hd": "159181"
+    }
+  },
+  {
+    "name": "Maasym",
+    "distance": 369.4224786,
+    "magnitude": 4.41,
+    "constellation": "Hercules",
+    "type": "K3IIIvar",
+    "spectral_group": "K",
+    "spectral_class": "1.434",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.512308,
+      "declination": 26.110645
+    },
+    "catalogs": {
+      "hip": "85693",
+      "hd": "158899"
+    }
+  },
+  {
+    "name": "Yildun",
+    "distance": 172.1370448,
+    "magnitude": 4.35,
+    "constellation": "Ursa Minor",
+    "type": "A1Vn",
+    "spectral_group": "A",
+    "spectral_class": "0.021",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.536918,
+      "declination": 86.58646
+    },
+    "catalogs": {
+      "hip": "85822",
+      "hd": "166205"
+    }
+  },
+  {
+    "name": "Rasalhague",
+    "distance": 48.592383,
+    "magnitude": 2.08,
+    "constellation": "Ophiuchus",
+    "type": "A5III",
+    "spectral_group": "A",
+    "spectral_class": "0.155",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.582241,
+      "declination": 12.560035
+    },
+    "catalogs": {
+      "hip": "86032",
+      "hd": "159561"
+    }
+  },
+  {
+    "name": "Sargas",
+    "distance": 300.368222,
+    "magnitude": 1.86,
+    "constellation": "Scorpius",
+    "type": "F1II",
+    "spectral_group": "F",
+    "spectral_class": "0.406",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.62198,
+      "declination": -42.997824
+    },
+    "catalogs": {
+      "hip": "86228",
+      "hd": "159532"
+    }
+  },
+  {
+    "name": "Dziban",
+    "distance": 74.4920106,
+    "magnitude": 4.57,
+    "constellation": "Draco",
+    "type": "F5IV-V",
+    "spectral_group": "F",
+    "spectral_class": "0.434",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.698978,
+      "declination": 72.148843
+    },
+    "catalogs": {
+      "hip": "86614",
+      "hd": "162003"
+    }
+  },
+  {
+    "name": "Cebalrai",
+    "distance": 81.8569542,
+    "magnitude": 2.76,
+    "constellation": "Ophiuchus",
+    "type": "K2III",
+    "spectral_group": "K",
+    "spectral_class": "1.168",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.724543,
+      "declination": 4.567303
+    },
+    "catalogs": {
+      "hip": "86742",
+      "hd": "161096"
+    }
+  },
+  {
+    "name": "Cervantes",
+    "distance": 50.597208200000004,
+    "magnitude": 5.12,
+    "constellation": "Ara",
+    "type": "G5V",
+    "spectral_group": "G",
+    "spectral_class": "0.694",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.735752,
+      "declination": -51.834053
+    },
+    "catalogs": {
+      "hip": "86796",
+      "hd": "160691"
+    }
+  },
+  {
+    "name": "Fuyue",
+    "distance": 125.8486124,
+    "magnitude": 3.19,
+    "constellation": "Scorpius",
+    "type": "K0/K1III",
+    "spectral_group": "K",
+    "spectral_class": "1.192",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.830965,
+      "declination": -37.043304
+    },
+    "catalogs": {
+      "hip": "87261",
+      "hd": "161892"
+    }
+  },
+  {
+    "name": "Grumium",
+    "distance": 112.56052919999999,
+    "magnitude": 3.73,
+    "constellation": "Draco",
+    "type": "K2III",
+    "spectral_group": "K",
+    "spectral_class": "1.177",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.892134,
+      "declination": 56.872643
+    },
+    "catalogs": {
+      "hip": "87585",
+      "hd": "163588"
+    }
+  },
+  {
+    "name": "Eltanin",
+    "distance": 154.3046694,
+    "magnitude": 2.24,
+    "constellation": "Draco",
+    "type": "K5III",
+    "spectral_group": "K",
+    "spectral_class": "1.521",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.943437,
+      "declination": 51.488895
+    },
+    "catalogs": {
+      "hip": "87833",
+      "hd": "164058"
+    }
+  },
+  {
+    "name": "Alnasl",
+    "distance": 96.8814,
+    "magnitude": 2.98,
+    "constellation": "Sagittarius",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "0.981",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 18.096803,
+      "declination": -30.424091
+    },
+    "catalogs": {
+      "hip": "88635",
+      "hd": "165135"
+    }
+  },
+  {
+    "name": "Kaus Media",
+    "distance": 347.7611676,
+    "magnitude": 2.72,
+    "constellation": "Sagittarius",
+    "type": "K3III",
+    "spectral_group": "K",
+    "spectral_class": "1.38",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 18.3499,
+      "declination": -29.828103
+    },
+    "catalogs": {
+      "hip": "89931",
+      "hd": "168454"
+    }
+  },
+  {
+    "name": "Kaus Australis",
+    "distance": 143.3215154,
+    "magnitude": 1.79,
+    "constellation": "Sagittarius",
+    "type": "B9.5III",
+    "spectral_group": "B",
+    "spectral_class": "-0.031",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 18.402868,
+      "declination": -34.384616
+    },
+    "catalogs": {
+      "hip": "90185",
+      "hd": "169022"
+    }
+  },
+  {
+    "name": "Fafnir",
+    "distance": 314.86487619999997,
+    "magnitude": 4.82,
+    "constellation": "Draco",
+    "type": "K2III",
+    "spectral_group": "K",
+    "spectral_class": "1.179",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 18.433069,
+      "declination": 65.56348
+    },
+    "catalogs": {
+      "hip": "90344",
+      "hd": "170693"
+    }
+  },
+  {
+    "name": "Kaus Borealis",
+    "distance": 78.1878566,
+    "magnitude": 2.82,
+    "constellation": "Sagittarius",
+    "type": "K1IIIb",
+    "spectral_group": "K",
+    "spectral_class": "1.025",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 18.466179,
+      "declination": -25.4217
+    },
+    "catalogs": {
+      "hip": "90496",
+      "hd": "169916"
+    }
+  },
+  {
+    "name": "Vega",
+    "distance": 25.0479194,
+    "magnitude": 0.03,
+    "constellation": "Lyra",
+    "type": "A0Vvar",
+    "spectral_group": "A",
+    "spectral_class": "-0.001",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 18.61564,
+      "declination": 38.783692
+    },
+    "catalogs": {
+      "hip": "91262",
+      "hd": "172167"
+    }
+  },
+  {
+    "name": "Nunki",
+    "distance": 227.79328880000003,
+    "magnitude": 2.05,
+    "constellation": "Sagittarius",
+    "type": "B2.5V",
+    "spectral_group": "B",
+    "spectral_class": "-0.134",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 18.92109,
+      "declination": -26.296722
+    },
+    "catalogs": {
+      "hip": "92855",
+      "hd": "175191"
+    }
+  },
+  {
+    "name": "Alya",
+    "distance": 154.6703396,
+    "magnitude": 4.62,
+    "constellation": "Serpens",
+    "type": "A5V",
+    "spectral_group": "A",
+    "spectral_class": "0.161",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 18.936995,
+      "declination": 4.203595
+    },
+    "catalogs": {
+      "hip": "92946",
+      "hd": "175638"
+    }
+  },
+  {
+    "name": "Ascella",
+    "distance": 88.2096992,
+    "magnitude": 2.6,
+    "constellation": "Sagittarius",
+    "type": "A3IV",
+    "spectral_group": "A",
+    "spectral_class": "0.062",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.043532,
+      "declination": -29.880105
+    },
+    "catalogs": {
+      "hip": "93506",
+      "hd": "176687"
+    }
+  },
+  {
+    "name": "Okab",
+    "distance": 83.0446484,
+    "magnitude": 2.99,
+    "constellation": "Aquila",
+    "type": "A0Vn",
+    "spectral_group": "A",
+    "spectral_class": "0.014",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.090169,
+      "declination": 13.863478
+    },
+    "catalogs": {
+      "hip": "93747",
+      "hd": "177724"
+    }
+  },
+  {
+    "name": "Meridiana",
+    "distance": 125.36518400000001,
+    "magnitude": 4.11,
+    "constellation": "Corona Australis",
+    "type": "A0/A1V",
+    "spectral_group": "A",
+    "spectral_class": "0.042",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.157869,
+      "declination": -37.904474
+    },
+    "catalogs": {
+      "hip": "94114",
+      "hd": "178253"
+    }
+  },
+  {
+    "name": "Altais",
+    "distance": 97.4313732,
+    "magnitude": 3.07,
+    "constellation": "Draco",
+    "type": "G9III",
+    "spectral_group": "G",
+    "spectral_class": "0.99",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.209225,
+      "declination": 67.661541
+    },
+    "catalogs": {
+      "hip": "94376",
+      "hd": "180711"
+    }
+  },
+  {
+    "name": "Arkab Prior",
+    "distance": 313.6536956,
+    "magnitude": 3.96,
+    "constellation": "Sagittarius",
+    "type": "B9V",
+    "spectral_group": "B",
+    "spectral_class": "-0.085",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.377303,
+      "declination": -44.458965
+    },
+    "catalogs": {
+      "hip": "95241",
+      "hd": "181454"
+    }
+  },
+  {
+    "name": "Arkab Posterior",
+    "distance": 134.18334860000002,
+    "magnitude": 4.27,
+    "constellation": "Sagittarius",
+    "type": "F2III",
+    "spectral_group": "F",
+    "spectral_class": "0.35",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.386976,
+      "declination": -44.799778
+    },
+    "catalogs": {
+      "hip": "95294",
+      "hd": "181623"
+    }
+  },
+  {
+    "name": "Rukbat",
+    "distance": 181.8284468,
+    "magnitude": 3.96,
+    "constellation": "Sagittarius",
+    "type": "B8V",
+    "spectral_group": "B",
+    "spectral_class": "-0.105",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.398103,
+      "declination": -40.61594
+    },
+    "catalogs": {
+      "hip": "95347",
+      "hd": "181869"
+    }
+  },
+  {
+    "name": "Anser",
+    "distance": 297.3564174,
+    "magnitude": 4.44,
+    "constellation": "Vulpecula",
+    "type": "M0 comp",
+    "spectral_group": "M",
+    "spectral_class": "1.502",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.478427,
+      "declination": 24.664905
+    },
+    "catalogs": {
+      "hip": "95771",
+      "hd": "183439"
+    }
+  },
+  {
+    "name": "Albireo",
+    "distance": 434.3542196,
+    "magnitude": 3.05,
+    "constellation": "Cygnus",
+    "type": "K3II+...",
+    "spectral_group": "K",
+    "spectral_class": "1.088",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.512023,
+      "declination": 27.959681
+    },
+    "catalogs": {
+      "hip": "95947",
+      "hd": "183912"
+    }
+  },
+  {
+    "name": "Alsafi",
+    "distance": 18.7718314,
+    "magnitude": 4.67,
+    "constellation": "Draco",
+    "type": "K0V",
+    "spectral_group": "K",
+    "spectral_class": "0.786",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.539149,
+      "declination": 69.661175
+    },
+    "catalogs": {
+      "hip": "96100",
+      "hd": "185144"
+    }
+  },
+  {
+    "name": "Sham",
+    "distance": 425.2933622,
+    "magnitude": 4.39,
+    "constellation": "Sagitta",
+    "type": "G0II",
+    "spectral_group": "G",
+    "spectral_class": "0.777",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.668275,
+      "declination": 18.01389
+    },
+    "catalogs": {
+      "hip": "96757",
+      "hd": "185758"
+    }
+  },
+  {
+    "name": "Fawaris",
+    "distance": 164.9975054,
+    "magnitude": 2.86,
+    "constellation": "Cygnus",
+    "type": "B9.5III",
+    "spectral_group": "B",
+    "spectral_class": "-0.002",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.749574,
+      "declination": 45.13081
+    },
+    "catalogs": {
+      "hip": "97165",
+      "hd": "186882"
+    }
+  },
+  {
+    "name": "Tarazed",
+    "distance": 394.9153348,
+    "magnitude": 2.72,
+    "constellation": "Aquila",
+    "type": "K3II",
+    "spectral_group": "K",
+    "spectral_class": "1.507",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.770994,
+      "declination": 10.613261
+    },
+    "catalogs": {
+      "hip": "97278",
+      "hd": "186791"
+    }
+  },
+  {
+    "name": "Altair",
+    "distance": 16.732429,
+    "magnitude": 0.76,
+    "constellation": "Aquila",
+    "type": "A7IV-V",
+    "spectral_group": "A",
+    "spectral_class": "0.221",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.846388,
+      "declination": 8.868322
+    },
+    "catalogs": {
+      "hip": "97649",
+      "hd": "187642"
+    }
+  },
+  {
+    "name": "Libertas",
+    "distance": 183.5677452,
+    "magnitude": 4.71,
+    "constellation": "Aquila",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.023",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.904134,
+      "declination": 8.461453
+    },
+    "catalogs": {
+      "hip": "97938",
+      "hd": "188310"
+    }
+  },
+  {
+    "name": "Alshain",
+    "distance": 44.6848332,
+    "magnitude": 3.71,
+    "constellation": "Aquila",
+    "type": "G8IVvar",
+    "spectral_group": "G",
+    "spectral_class": "0.855",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.921887,
+      "declination": 6.406763
+    },
+    "catalogs": {
+      "hip": "98036",
+      "hd": "188512"
+    }
+  },
+  {
+    "name": "Terebellum",
+    "distance": 84.771225,
+    "magnitude": 4.7,
+    "constellation": "Sagittarius",
+    "type": "G3/G5III",
+    "spectral_group": "G",
+    "spectral_class": "0.748",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 19.930651,
+      "declination": -26.299506
+    },
+    "catalogs": {
+      "hip": "98066",
+      "hd": "188376"
+    }
+  },
+  {
+    "name": "Algedi",
+    "distance": 105.840483,
+    "magnitude": 3.58,
+    "constellation": "Capricornus",
+    "type": "G6/G8III",
+    "spectral_group": "G",
+    "spectral_class": "0.883",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.300904,
+      "declination": -12.544852
+    },
+    "catalogs": {
+      "hip": "100064",
+      "hd": "192947"
+    }
+  },
+  {
+    "name": "Alshat",
+    "distance": 253.26102759999998,
+    "magnitude": 4.77,
+    "constellation": "Capricornus",
+    "type": "B9IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.047",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.344393,
+      "declination": -12.75908
+    },
+    "catalogs": {
+      "hip": "100310",
+      "hd": "193432"
+    }
+  },
+  {
+    "name": "Dabih",
+    "distance": 326.8537048,
+    "magnitude": 3.05,
+    "constellation": "Capricornus",
+    "type": "A5:n",
+    "spectral_group": "A",
+    "spectral_class": "0.79",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.350187,
+      "declination": -14.781367
+    },
+    "catalogs": {
+      "hip": "100345",
+      "hd": "193495"
+    }
+  },
+  {
+    "name": "Peacock",
+    "distance": 178.8378452,
+    "magnitude": 1.94,
+    "constellation": "Pavo",
+    "type": "B2IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.118",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.427459,
+      "declination": -56.73509
+    },
+    "catalogs": {
+      "hip": "100751",
+      "hd": "193924"
+    }
+  },
+  {
+    "name": "Aldulfin",
+    "distance": 330.4963802,
+    "magnitude": 4.03,
+    "constellation": "Delphinus",
+    "type": "B6III",
+    "spectral_group": "B",
+    "spectral_class": "-0.123",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.553547,
+      "declination": 11.303263
+    },
+    "catalogs": {
+      "hip": "101421",
+      "hd": "195810"
+    }
+  },
+  {
+    "name": "Rotanev",
+    "distance": 100.896922,
+    "magnitude": 3.64,
+    "constellation": "Delphinus",
+    "type": "F5IV",
+    "spectral_group": "F",
+    "spectral_class": "0.425",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.625816,
+      "declination": 14.595087
+    },
+    "catalogs": {
+      "hip": "101769",
+      "hd": "196524"
+    }
+  },
+  {
+    "name": "Sualocin",
+    "distance": 253.852102,
+    "magnitude": 3.77,
+    "constellation": "Delphinus",
+    "type": "B9V",
+    "spectral_group": "B",
+    "spectral_class": "-0.057",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.660635,
+      "declination": 15.912072
+    },
+    "catalogs": {
+      "hip": "101958",
+      "hd": "196867"
+    }
+  },
+  {
+    "name": "Aljanah",
+    "distance": 72.7151992,
+    "magnitude": 2.48,
+    "constellation": "Cygnus",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.021",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.770178,
+      "declination": 33.970256
+    },
+    "catalogs": {
+      "hip": "102488",
+      "hd": "197989"
+    }
+  },
+  {
+    "name": "Albali",
+    "distance": 207.7708066,
+    "magnitude": 3.78,
+    "constellation": "Aquarius",
+    "type": "A1V",
+    "spectral_group": "A",
+    "spectral_class": "0.0",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.794598,
+      "declination": -9.495776
+    },
+    "catalogs": {
+      "hip": "102618",
+      "hd": "198001"
+    }
+  },
+  {
+    "name": "Musica",
+    "distance": 245.6325144,
+    "magnitude": 5.51,
+    "constellation": "Delphinus",
+    "type": "G6III:",
+    "spectral_group": "G",
+    "spectral_class": "0.934",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 20.973871,
+      "declination": 10.839286
+    },
+    "catalogs": {
+      "hip": "103527",
+      "hd": "199665"
+    }
+  },
+  {
+    "name": "Polaris Australis",
+    "distance": 280.9645412,
+    "magnitude": 5.45,
+    "constellation": "Octans",
+    "type": "F0III",
+    "spectral_group": "F",
+    "spectral_class": "0.283",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 21.146119,
+      "declination": -88.956499
+    },
+    "catalogs": {
+      "hip": "104382",
+      "hd": "177482"
+    }
+  },
+  {
+    "name": "Kitalpha",
+    "distance": 190.3151922,
+    "magnitude": 3.92,
+    "constellation": "Equuleus",
+    "type": "G0III+...",
+    "spectral_group": "G",
+    "spectral_class": "0.549",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 21.263731,
+      "declination": 5.247845
+    },
+    "catalogs": {
+      "hip": "104987",
+      "hd": "202447"
+    }
+  },
+  {
+    "name": "Alderamin",
+    "distance": 49.0526512,
+    "magnitude": 2.45,
+    "constellation": "Cepheus",
+    "type": "A7IV-V",
+    "spectral_group": "A",
+    "spectral_class": "0.257",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 21.30963,
+      "declination": 62.585573
+    },
+    "catalogs": {
+      "hip": "105199",
+      "hd": "203280"
+    }
+  },
+  {
+    "name": "Bunda",
+    "distance": 178.641799,
+    "magnitude": 4.68,
+    "constellation": "Aquarius",
+    "type": "A7V",
+    "spectral_group": "A",
+    "spectral_class": "0.175",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 21.629197,
+      "declination": -7.854201
+    },
+    "catalogs": {
+      "hip": "106786",
+      "hd": "205767"
+    }
+  },
+  {
+    "name": "Nashira",
+    "distance": 157.0535568,
+    "magnitude": 3.69,
+    "constellation": "Capricornus",
+    "type": "A7III:mp...",
+    "spectral_group": "A",
+    "spectral_class": "0.32",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 21.668181,
+      "declination": -16.662308
+    },
+    "catalogs": {
+      "hip": "106985",
+      "hd": "206088"
+    }
+  },
+  {
+    "name": "Deneb Algedi",
+    "distance": 38.7088492,
+    "magnitude": 2.85,
+    "constellation": "Capricornus",
+    "type": "A5mF2 (IV)",
+    "spectral_group": "A",
+    "spectral_class": "0.18",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 21.784011,
+      "declination": -16.127286
+    },
+    "catalogs": {
+      "hip": "107556",
+      "hd": "207098"
+    }
+  },
+  {
+    "name": "Aldhanab",
+    "distance": 211.1326238,
+    "magnitude": 3.0,
+    "constellation": "Grus",
+    "type": "B8III",
+    "spectral_group": "B",
+    "spectral_class": "-0.084",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 21.898808,
+      "declination": -37.364852
+    },
+    "catalogs": {
+      "hip": "108085",
+      "hd": "207971"
+    }
+  },
+  {
+    "name": "Kurhah",
+    "distance": 96.5375852,
+    "magnitude": 4.26,
+    "constellation": "Cepheus",
+    "type": "Am",
+    "spectral_group": "A",
+    "spectral_class": "0.379",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.063135,
+      "declination": 64.627971
+    },
+    "catalogs": {
+      "hip": "108917",
+      "hd": "209790"
+    }
+  },
+  {
+    "name": "Alnair",
+    "distance": 101.0218566,
+    "magnitude": 1.73,
+    "constellation": "Grus",
+    "type": "B7IV",
+    "spectral_group": "B",
+    "spectral_class": "-0.07",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.137209,
+      "declination": -46.960975
+    },
+    "catalogs": {
+      "hip": "109268",
+      "hd": "209952"
+    }
+  },
+  {
+    "name": "Biham",
+    "distance": 92.303183,
+    "magnitude": 3.52,
+    "constellation": "Pegasus",
+    "type": "A2V",
+    "spectral_group": "A",
+    "spectral_class": "0.086",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.169996,
+      "declination": 6.197865
+    },
+    "catalogs": {
+      "hip": "109427",
+      "hd": "210418"
+    }
+  },
+  {
+    "name": "Ancha",
+    "distance": 187.4713806,
+    "magnitude": 4.17,
+    "constellation": "Aquarius",
+    "type": "G8III-IV",
+    "spectral_group": "G",
+    "spectral_class": "0.979",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.280565,
+      "declination": -7.78329
+    },
+    "catalogs": {
+      "hip": "110003",
+      "hd": "211391"
+    }
+  },
+  {
+    "name": "Sadachbia",
+    "distance": 163.7550096,
+    "magnitude": 3.86,
+    "constellation": "Aquarius",
+    "type": "A0V",
+    "spectral_group": "A",
+    "spectral_class": "-0.057",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.360938,
+      "declination": -1.387331
+    },
+    "catalogs": {
+      "hip": "110395",
+      "hd": "212061"
+    }
+  },
+  {
+    "name": "Situla",
+    "distance": 213.90173560000002,
+    "magnitude": 5.04,
+    "constellation": "Aquarius",
+    "type": "K2III",
+    "spectral_group": "K",
+    "spectral_class": "1.14",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.629273,
+      "declination": -4.228056
+    },
+    "catalogs": {
+      "hip": "111710",
+      "hd": "214376"
+    }
+  },
+  {
+    "name": "Homam",
+    "distance": 204.3858292,
+    "magnitude": 3.41,
+    "constellation": "Pegasus",
+    "type": "B8.5V",
+    "spectral_group": "B",
+    "spectral_class": "-0.086",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.691033,
+      "declination": 10.831364
+    },
+    "catalogs": {
+      "hip": "112029",
+      "hd": "214923"
+    }
+  },
+  {
+    "name": "Tiaki",
+    "distance": 176.9941628,
+    "magnitude": 2.07,
+    "constellation": "Grus",
+    "type": "M5III",
+    "spectral_group": "M",
+    "spectral_class": "1.61",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.711115,
+      "declination": -46.884577
+    },
+    "catalogs": {
+      "hip": "112122",
+      "hd": "214952"
+    }
+  },
+  {
+    "name": "Matar",
+    "distance": 214.32318600000002,
+    "magnitude": 2.93,
+    "constellation": "Pegasus",
+    "type": "G2II-III..",
+    "spectral_group": "G",
+    "spectral_class": "0.852",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.716704,
+      "declination": 30.221245
+    },
+    "catalogs": {
+      "hip": "112158",
+      "hd": "215182"
+    }
+  },
+  {
+    "name": "Sadalbari",
+    "distance": 106.11579580000001,
+    "magnitude": 3.51,
+    "constellation": "Pegasus",
+    "type": "M2III",
+    "spectral_group": "M",
+    "spectral_class": "0.933",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.833385,
+      "declination": 24.601579
+    },
+    "catalogs": {
+      "hip": "112748",
+      "hd": "216131"
+    }
+  },
+  {
+    "name": "Skat",
+    "distance": 160.6104416,
+    "magnitude": 3.27,
+    "constellation": "Aquarius",
+    "type": "A3V",
+    "spectral_group": "A",
+    "spectral_class": "0.066",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.910837,
+      "declination": -15.82082
+    },
+    "catalogs": {
+      "hip": "113136",
+      "hd": "216627"
+    }
+  },
+  {
+    "name": "Helvetios",
+    "distance": 50.912969800000006,
+    "magnitude": 5.45,
+    "constellation": "Pegasus",
+    "type": "G5V",
+    "spectral_group": "G",
+    "spectral_class": "0.666",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.95777,
+      "declination": 20.768832
+    },
+    "catalogs": {
+      "hip": "113357",
+      "hd": "217014"
+    }
+  },
+  {
+    "name": "Fomalhaut",
+    "distance": 25.129143199999998,
+    "magnitude": 1.17,
+    "constellation": "Piscis Austrinus",
+    "type": "A3V",
+    "spectral_group": "A",
+    "spectral_class": "0.145",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 22.960838,
+      "declination": -29.622236
+    },
+    "catalogs": {
+      "hip": "113368",
+      "hd": "216956"
+    }
+  },
+  {
+    "name": "Scheat",
+    "distance": 196.0338044,
+    "magnitude": 2.44,
+    "constellation": "Pegasus",
+    "type": "M2II-IIIvar",
+    "spectral_group": "M",
+    "spectral_class": "1.655",
+    "predictions": {
+      "color": "Red",
+      "mass": [
+        0.08,
+        0.45
+      ],
+      "luminosity": [
+        0.0001,
+        0.08
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 23.062901,
+      "declination": 28.082789
+    },
+    "catalogs": {
+      "hip": "113881",
+      "hd": "217906"
+    }
+  },
+  {
+    "name": "Fumalsamakah",
+    "distance": 408.2601768,
+    "magnitude": 4.48,
+    "constellation": "Pisces",
+    "type": "B6Ve",
+    "spectral_group": "B",
+    "spectral_class": "-0.115",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 23.064615,
+      "declination": 3.820045
+    },
+    "catalogs": {
+      "hip": "113889",
+      "hd": "217891"
+    }
+  },
+  {
+    "name": "Markab",
+    "distance": 133.3606722,
+    "magnitude": 2.49,
+    "constellation": "Pegasus",
+    "type": "B9.5III",
+    "spectral_group": "B",
+    "spectral_class": "-0.002",
+    "predictions": {
+      "color": "Blue",
+      "mass": [
+        2.1,
+        20
+      ],
+      "luminosity": [
+        25,
+        30000
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 23.079348,
+      "declination": 15.205264
+    },
+    "catalogs": {
+      "hip": "113963",
+      "hd": "218045"
+    }
+  },
+  {
+    "name": "Salm",
+    "distance": 161.7253932,
+    "magnitude": 4.58,
+    "constellation": "Pegasus",
+    "type": "A5V",
+    "spectral_group": "A",
+    "spectral_class": "0.18",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.4,
+        2.1
+      ],
+      "luminosity": [
+        5,
+        25
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 23.343956,
+      "declination": 23.740337
+    },
+    "catalogs": {
+      "hip": "115250",
+      "hd": "220061"
+    }
+  },
+  {
+    "name": "Alkarab",
+    "distance": 170.4284092,
+    "magnitude": 4.42,
+    "constellation": "Pegasus",
+    "type": "F8IV",
+    "spectral_group": "F",
+    "spectral_class": "0.617",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 23.422993,
+      "declination": 23.404101
+    },
+    "catalogs": {
+      "hip": "115623",
+      "hd": "220657"
+    }
+  },
+  {
+    "name": "Veritate",
+    "distance": 258.2740692,
+    "magnitude": 5.22,
+    "constellation": "Andromeda",
+    "type": "K0III",
+    "spectral_group": "K",
+    "spectral_class": "1.029",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 23.52149,
+      "declination": 39.236198
+    },
+    "catalogs": {
+      "hip": "116076",
+      "hd": "221345"
+    }
+  },
+  {
+    "name": "Errai",
+    "distance": 46.0020288,
+    "magnitude": 3.21,
+    "constellation": "Cepheus",
+    "type": "K1IV",
+    "spectral_group": "K",
+    "spectral_class": "1.031",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 23.65582,
+      "declination": 77.632276
+    },
+    "catalogs": {
+      "hip": "116727",
+      "hd": "222404"
+    }
+  },
+  {
+    "name": "p Eridani",
+    "distance": 26.5742092,
+    "magnitude": 5.8,
+    "constellation": "Eridanus",
+    "type": "K2 V",
+    "spectral_group": "K",
+    "spectral_class": "0.86",
+    "predictions": {
+      "color": "Orange",
+      "mass": [
+        0.45,
+        0.8
+      ],
+      "luminosity": [
+        0.08,
+        0.6
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 1.663003,
+      "declination": -56.19462
+    },
+    "catalogs": {
+      "hip": "",
+      "hd": "10361"
+    }
+  },
+  {
+    "name": "Alula Australis",
+    "distance": 33.9792754,
+    "magnitude": 4.33,
+    "constellation": "Ursa Major",
+    "type": "G0 Ve",
+    "spectral_group": "G",
+    "spectral_class": "0.59",
+    "predictions": {
+      "color": "Yellow",
+      "mass": [
+        0.8,
+        1.04
+      ],
+      "luminosity": [
+        0.6,
+        1.5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 11.303118,
+      "declination": 31.528783
+    },
+    "catalogs": {
+      "hip": "",
+      "hd": "98231"
+    }
+  },
+  {
+    "name": "Graffias",
+    "distance": 79.3673958,
+    "magnitude": 4.84,
+    "constellation": "Scorpius",
+    "type": "F6 IV-V",
+    "spectral_group": "F",
+    "spectral_class": "0.45",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 16.072774,
+      "declination": -11.374611
+    },
+    "catalogs": {
+      "hip": "",
+      "hd": "144070"
+    }
+  },
+  {
+    "name": "Alrakis",
+    "distance": 75.8604196,
+    "magnitude": 5.63,
+    "constellation": "Draco",
+    "type": "F7 V",
+    "spectral_group": "F",
+    "spectral_class": "0.47",
+    "predictions": {
+      "color": "White",
+      "mass": [
+        1.04,
+        1.4
+      ],
+      "luminosity": [
+        1.5,
+        5
+      ]
+    },
+    "coordinates": {
+      "right_ascension": 17.088714,
+      "declination": 54.469093
+    },
+    "catalogs": {
+      "hip": "",
+      "hd": "154906"
+    }
+  }
+]
