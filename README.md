@@ -19,7 +19,7 @@ All data was obtained from the [HYG Catalog (3.7)](https://astronexus.com/hyg).
 
 **star_db.json**: Stars with a proper name, a magnitude less than 6 and a distance no more than 150 light years. 
 
-**unnamed_stars_db.json**: Stars without but with a HD or HIP catalog id, a magnitude less than 6 and a distance no more than 150 light years. 
+**unnamed_stars_db.json**: Stars without a proper name but with a HD or HIP catalog id, a magnitude less than 6 and a distance no more than 150 light years. 
 
 ## Credits 
 
