@@ -210,8 +210,8 @@
         renderer.domElement.addEventListener('webglcontextlost', function(event) {
                 console.error('WebGL context lost');
                 document.getElementById("three-stars-bg").remove();
-                    toast.error("WebGL Context Lost, Please reload the website.", {
-                        style: 'border: 1px solid #FFFFFF; padding: 16px; color: #FFFFFF; background-color: transparent;',
+                    toast.error("WebGL Context Lost.", {
+                        style: 'border: 1px solid #FFFFFF; padding: 16px; color: #FFFFFF; background-color: #000000;',
                         iconTheme: {
                             primary: '#FFFFFF',
                             secondary: '#000000'
